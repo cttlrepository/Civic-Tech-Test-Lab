@@ -1,4 +1,4 @@
-# Citizen OS
+# [Citizen OS](https://citizenos.com)
 
 This guide is available english (this doc), [spanish](README.md), and [catalan](README_cat.md). We'll welcome more translations via PR.
 ### Table of contents
