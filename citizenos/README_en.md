@@ -78,8 +78,8 @@ docker run --name ubuntu  -it ubuntu:latest bash
 Due to the way *npm* works, issues when installing this service with *root* user may appear, which makes us recommend to work with a different user, install **sudo** and add that user to the **sudo** group. 
 
 ```
-	apt install sudo
-    useradd foo -G sudo -m
+apt install sudo
+useradd foo -G sudo -m
 ```
 
 <a name="env"></a>
@@ -120,13 +120,13 @@ bash install.sh
 This point onwards will be needed to set up the service. Inside the service root folder there's another one called **config/**, which stores the configuration files for the API. We'll modify the proper config file according to the environment the service will be working on; this is: default, development, production or test, each one with a .json associated file. Regardless of environment choice, each of one of the files will have to have the Etherpad configuration set up. To do that we'll have to look up for the etherpard dictionary inside the config files. Here's an example:
 
 ```
-    "etherpad": {
-      "host": "localhost", 
-      "port": "9001", 
-      "ssl": true,
-      "rejectUnauthorized": false,
-      "apikey": "fb1f98df49f80182296ce2dbc72b3b848be2f1c7b2ede082eaff5261e1a408ab"
-    }
+"etherpad": {
+  "host": "localhost", 
+  "port": "9001", 
+  "ssl": true,
+  "rejectUnauthorized": false,
+  "apikey": "fb1f98df49f80182296ce2dbc72b3b848be2f1c7b2ede082eaff5261e1a408ab"
+}
 ```
 At last, in order to start de service:
 ```
@@ -171,3 +171,8 @@ On production environments we recommend blocking the outbound ports of the servi
 
 <a name="val"></a>
 ## Final assessment
+Our assessment is made to give an opinion about the installation process - if it's tedious, if the software is over-dependant on other technologies, etc - and the service use.
+
+The installation process can grow tedious if experience is needed when, on the one hand, working with node service due to its package manager - ```npm```- idiosyncrasies, or, in the other hand, while working with ```postgresql``` because its workflow is a tad different  to more classical approaches like ```mariadb``` or ```mysql```. If we ignore those two cases, the project actually has very few dependencies and the installation is speedy and easy.
+
+As for its use, Citizen OS provides a modern and friendly user interface, reason by which we consider is easy to use regardless of  technical knowledge of the user.

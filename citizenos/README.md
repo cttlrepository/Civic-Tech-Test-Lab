@@ -78,8 +78,8 @@ docker run --name ubuntu  -it ubuntu:latest bash
 Por como funciona *npm* pueden surgir problemas al intentar instalar este servicio con *root*, por lo que recomendamos trabajar con usuario diferente, instalar **sudo** y añadir dicho usuario al grupo **sudo**. 
 
 ```
-	apt install sudo
-    useradd foo -G sudo -m
+apt install sudo
+useradd foo -G sudo -m
 ```
 <a name="deps"></a>
 ### Dependencias
@@ -117,13 +117,13 @@ bash install.sh
 
 A partir de este punto será necesario configurar dicho servicio. Dentro de la carpeta raíz del mismo se encuentra la carpeta de configuración llamada **config/**. Modificamos el fichero de configuración según el entorno para desplegar, teniendo cuatro ficheros json con nombres default, development, production o test. Según se quiera una configuración u otra, se modificará el fichero correspondiente. Independientemente del fichero, será necesario configurar la conexión con Etherpad. Buscamos el diccionario etherpad y modificamos consecuentemente la IP y el puerto. Un ejemplo:
 ```
-    "etherpad": {
-      "host": "localhost", 
-      "port": "9001", 
-      "ssl": true,
-      "rejectUnauthorized": false,
-      "apikey": "fb1f98df49f80182296ce2dbc72b3b848be2f1c7b2ede082eaff5261e1a408ab"
-    }
+"etherpad": {
+  "host": "localhost", 
+  "port": "9001", 
+  "ssl": true,
+  "rejectUnauthorized": false,
+  "apikey": "fb1f98df49f80182296ce2dbc72b3b848be2f1c7b2ede082eaff5261e1a408ab"
+}
 ```
 Por último, para iniciar el servicio:
 ```
@@ -169,4 +169,8 @@ Las carpetas de los tres servicios se encuentran en /home/foo.
 En entornos de producción recomendamos bloquear la salida de los puertos que los servicios exponen y redirigr las peticiones a los mismos desde un proxy inverso - Apache o Nginx - con todos los protocolos de seguridad que dichos servicios soportan, principalmente SSL.
 <a name="val"></a>
 ## Valoración
+Realizaremos nuestra valoración principalmente sobre la instalación - en función de si es tediosa, sobredependiente de diferentes tecnologías, etc - y el uso del servicio.
 
+La instalación puede llegar a ser tediosa si no se tiene experiencia, per un por un lado, trabajando con servicios node por las idiosincrasias del gestor de paquetes ```npm```, o con ```postgresql```, servicio que suele funcionar de manera diferente a gestores de bases de datos clásicos como ```mariadb``` o ```mysql```. Exceptuando estos dos casos, existen muy pocas dependencias y la instalación es rápida y fácil.
+
+En cuanto al uso, Citizen OS provee una interfaz de usuario moderna y amigable, por lo que consideramos que es fácil de usar por un usuario de cualquier nivel de conocimientos.

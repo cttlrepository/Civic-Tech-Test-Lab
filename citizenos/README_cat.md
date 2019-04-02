@@ -51,8 +51,8 @@ docker run --name ubuntu  -it ubuntu:latest bash
 A causa de com *npm* funciona, es poden produir problemes en insta·lar aquest servei, motiu pel qual recomanem crear un usuario diferent, instalar **sudo** y afegir el nou usuari al grup **sudo**.
 
 ```
-	apt install sudo
-    useradd foo -G sudo -m
+apt install sudo
+useradd foo -G sudo -m
 ```
 
 ### Dependències
@@ -139,3 +139,8 @@ En entorns de producció recomanem bloquejar la eixida dels ports que els servic
 ones externes desde un proxy invers - Apache o Nginx - amb tots els protocolos de seguretat que aquests servicis soporten, principalment SSL.
 
 ## Valoració
+Realizarem la nostra valoració principalmment la instalació - en funció de si es tediosa, sobrependent d'altres tecnologies, etc - i en l'ús del servici.
+
+La instalació pot arribar a ser tediosa si no es té experiència, d'una banda, treballant amb servicis node, per les idiosincrasies del seu gestor de paquets ```npm```, o amb ```postgresql``` servici que sol funcionar de manera diferent a altes exemples clàsics com ```mariadb``` o ```mysql```. Exceptuant aquests casos, existeixen molt poques dependencies i la instalació es ràpida i senzilla.
+
+Quant l'ús, Citizen os proveeix una interfície d'usuari moderna i amigable, motiu pel qual considerem que es facil d'utilitzar per un usuari amb cualsevol nivell de coneixements.
