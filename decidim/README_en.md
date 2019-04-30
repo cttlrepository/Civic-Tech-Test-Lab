@@ -28,11 +28,12 @@ This guide is available english (this doc), [spanish](README.md), and [catalan](
 [Decidim](decidim.org) is a framework which aims to help teams and organizations build a virtual democratic field for its users.
 It allows creating a participatory flow involving processes, assemblies, user-made assemblies, consultations and conferences.
 
-A process is a cycle-of-life definition which gathers user-made activities in a given context. For example, the city of Barcelona's `decidim` has a process to diagnose the need of revision and reequipment of public infrastructure at Nou Barris.
+Decidim uses sepcific termonoly when describing its use cases. The foremost concep concept we have is a *process*, which is a cycle-of-life definition which gathers user-made activities in a given context. For example, the city of Barcelona's `decidim` has a process to diagnose the need of revision and reequipment of public infrastructure at Nou Barris.
 A `decidim` user may select a given process in a that area and create a proposal on that process, eg, the need to create a children space or a park.
 That proposal can be commented and endorsed by other members of the organization.
 The cycle-of-life of a process is custom-made for each process, this is, its steps are made when defining a process, although a 'Introduction' step will be automatically defined by default.
 
+[WIP]
 
 <a name="authorship"></a>
 ## Autorship
