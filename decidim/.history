@@ -1,0 +1,15 @@
+docker pull airdock/rvm
+docker run --name decidim -it airdock/rvm bash
+	rvm install 2.5.1
+	rvm use 2.5.1
+	ruby --version
+	gem install bundler
+	gem env home
+	apt install postgresql libpq-dev nodejs imagemagick
+	service postgresql start
+	gem install mini_portile2 -v 2.2.0
+	--->> gem install icu --verbose -no-rdoc --no-ri
+	gem install decidim
+	decidim decidim_cttl
+	
+
