@@ -117,11 +117,11 @@ bin/rails console -e production
 2.5.1 :005 > quit
 # lanzar el servidor en localhost:3000
 bin/rails s
-``
+```
 <a name="docs"></a>
 ## Documentación oficial
-- [Platoniq's installation guide on Ubuntu 18.04](https://github.com/Platoniq/decidim-install/blob/master/decidim-bionic.md)
-- [Official installation guides](https://github.com/decidim/decidim/blob/master/docs/getting_started.md)
+- [Guia de instalación de Platoniq en Ubuntu 18.04](https://github.com/Platoniq/decidim-install/blob/master/decidim-bionic.md)
+- [Guías de instalación oficiales](https://github.com/decidim/decidim/blob/master/docs/getting_started.md)
 
 
 <a name="comms"></a>
@@ -137,4 +137,4 @@ Por otro lado, en vez de un proxy inverso, también existe el software [passenge
 <a name="val"></a>
 ## Valoración
 
-Aunque no exista, a priori, restricción de uso para organizaciones pequeñas, este servicio es __gigante__ lo que implica que su instalación y preparación para producción puede ser tediosa, especialmente cuando solo el versionado de ruby es una tarea ardua en sí misma. Si se desea una instalación rápida, recomendamos la oficial mediante docker
+Aunque no exista, a priori, restricción de uso para organizaciones pequeñas, este servicio es _gigante_ lo que implica que su instalación y preparación para producción puede ser tediosa, especialmente cuando solo el versionado de ruby es una tarea ardua en sí misma. Si se desea una instalación rápida, recomendamos la oficial mediante docker
