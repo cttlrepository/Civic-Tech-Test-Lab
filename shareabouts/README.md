@@ -1,4 +1,4 @@
-# [Título del proyecto](https://github.com/openplans/shareabouts)
+# [Shareabouts](https://github.com/openplans/shareabouts)
 
 Esta guia está disponible en castellano (este documento), [inglés](README_en.md) y [valenciano](README_cat.md). Más traducciones son bienvenidas mediante un PR.
 
@@ -25,7 +25,7 @@ Esta guia está disponible en castellano (este documento), [inglés](README_en.m
 <a name="desc"></a>
 ## Descripción
 
-> [Shareabouts](✓https://github.com/openplans/shareabouts#shareabouts-) es un mapa online para recoger procesos sociales de colaboración abierta. Al desplazar un pin en el mapa se pueden proveer ideas, sugestiones y comentarios para planear o diseñar mejoras y problemas. Además, al ser una aplicación mobile-friendly, resulta facil añadir entradas rápidamente.
+> [Shareabouts](https://github.com/openplans/shareabouts#shareabouts-) es un mapa online para recoger procesos sociales de colaboración abierta. Al desplazar un pin en el mapa se pueden proveer ideas, sugestiones y comentarios para planear o diseñar mejoras y problemas. Además, al ser una aplicación mobile-friendly, resulta facil añadir entradas rápidamente.
 
 [Shareabouts](https://github.com/openplans/shareabouts), teniendo como base el mapa de un lugar específico, permite a los usuarios - sin necesidad de registro ni tratamiento de datos - registrar una mejora o un problema en un punto del mismo.
 
