@@ -64,7 +64,7 @@ useradd foo -G sudo -m
 | [postgresql](https://www.postgresql.org/) | 9.5            | > 9.5              | 
 | [nodejs](https://nodejs.org/es/)     | 6.13.1         | >6.13.1            |
 
-- [API](https://github.com/citizenos/citizenos-api)
+- [FE](https://github.com/citizenos/citizenos-fe)
 	- nodejs
 - [Etherpad](https://github.com/ether/etherpad-lite/)
 	- nodejs v8.9	
@@ -106,6 +106,15 @@ npm start
 
 ```
 git clone https://github.com/citizenos/citizenos-fe.git 
+```
+Modifiquem els fitxers JSON del directory public/config/ amb la URL del servici API
+```
+{
+'baseUrl': 'localhost:3002'
+}
+```
+I finalment:
+```
 cd citizenos-fe
 npm run dev
 ```

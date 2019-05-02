@@ -91,7 +91,7 @@ useradd foo -G sudo -m
 | [postgresql](https://www.postgresql.org/) | 9.5            | > 9.5              | 
 | [nodejs](https://nodejs.org/es/)     | 6.13.1         | >6.13.1            |
 
-- [API](https://github.com/citizenos/citizenos-api)
+- [FE](https://github.com/citizenos/citizenos-fe)
 	- nodejs
 - [Etherpad](https://github.com/ether/etherpad-lite/)
 	- nodejs con versión mínima 8.9	
@@ -135,6 +135,15 @@ npm start
 ```
 git clone https://github.com/citizenos/citizenos-fe.git 
 cd citizenos-fe
+```
+Modificamos los ficheros json de public/config/ especificando la url del servicio API
+```bash
+{
+ 'baseUrl': 'localhost:3002'
+}
+```
+Y finalmente
+```bash
 npm run dev
 ```
 <a name="docs"></a>
@@ -159,7 +168,7 @@ Se puede descargar el entorno con la instalación realizada para crear este docu
 Para importar el contenedor:
 ```
 zcat container.gz | docker - import citizenos
-docker run --name citizenos -i -t /bin/bash
+docker run --name citizenos -it /bin/bash
 su - foo
 ```
 Las carpetas de los tres servicios se encuentran en /home/foo.
