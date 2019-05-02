@@ -1,15 +1,51 @@
+#### META ####
+
+file with the essential commands launched to do the decidim install - the ones which didn't work (but at the moment i thought they would) are omitted. if a given command is indented it means it was launched inside the last command environment, eg, a command launched inside a -it docker container.
+
+
+######################
+
 docker pull airdock/rvm
-docker run --name decidim -it airdock/rvm bash
+docker run --name decidim -it airdock/rvm bash --login
+# docker exec -it decidim bash --login
 	rvm install 2.5.1
 	rvm use 2.5.1
 	ruby --version
 	gem install bundler
 	gem env home
-	apt install postgresql libpq-dev nodejs imagemagick
+	echo 'deb http://apt.postgresql.org/pub/repos/apt/ jessie-pgdg main' >> /etc/apt/sources.list.d/postgresql.list
+	wget --no-check-certificate -q https://www.postgresql.org/media/keys/ACCC4CF8.asc -O- | apt-key add -
+	apt update
+	apt install postgresql-9.6
+	apt install libpq-dev nodejs imagemagick
 	service postgresql start
 	gem install mini_portile2 -v 2.2.0
-	--->> gem install icu --verbose -no-rdoc --no-ri
-	gem install decidim
+	gem install icu --verbose --no-rdoc --no-ri
+	apt install libicu-dev
+	gem install decidim --verbose --no-rdoc --no-ri
 	decidim decidim_cttl
-	
-
+	apt install sudo
+	service postgresql start
+	sudo -u postgres psql -c "CREATE USER decidim_cttl WITH SUPERUSER CREATEDB NOCREATEROLE PASSWORD 'decidim_cttl'"
+	cd decidim_cttl
+		vim Gemfile
+		bundle install
+		rake secret
+		echo -e "DATABASE_URL: postgres://decidim_cttl:decidim_cttl@localhost/decidim_prod \nSECRET_KEY_BASE:" > config/application.yml
+		rake secret >> config/application.yml
+		vim config/application.yml
+		bin/rails db:create RAILS_ENV=production
+		bin/rails assets:precompile db:migrate RAILS_ENV=production --trace
+		bin/rails console -e production
+			password = "fifteencharspassword"
+			email = "admin@cttl.local"
+			user = Decidim::System::Admin.new(email: email, password: password, password_confirmation: password)
+			user.save!
+		bin/rails s
+		vim config/application.yml
+		bundle install
+		bin/rails generate delayed_job:active_record
+		bin/rake db:migrate
+		vim config/initializers/decidim.rb
+		RAILS_ENV=production bin/delayed_job restart
+			

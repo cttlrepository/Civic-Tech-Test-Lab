@@ -11,3 +11,4 @@ CTTL es un projecte realitzat per la càtedra Tecnología Cívica y Empoderamien
 | :--------- | :---------- | :--------- | :------ |
 | [Citizen OS](/citizenos) | Citizeon OS | Apache 2.0 | Colaboració, vots, govern obert|
 | [decidim](/decidim) | decidim | |
+| [shareabouts](/shareabouts) | shareabouts | |
