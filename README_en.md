@@ -1,8 +1,9 @@
 # Civic Tech Test Lab
-This document is also available in [spanish](README.md) or [catalan](README_cat.md).
+This document is also available in [spanish](README.md) or [catalan](README_cat.md). All documents (including this one) provided by this repository are licensed under the [GNU Free Documentation License](/LICENSE)
 
 ## What is this 
-CTTL es a project made by the Tecnología Cívica y Empoderamientos professorship at the Universitat Politècnica de Valencia, an association which seeks  the compilation, review and documentation of civic tools which help the citizenship empowerment by solving open government issues. For this purpose this document will be a showcase of tools which fulfill the above requirements. For each one of the tools we'll explain how to install and deploy it and also we'll provide a docker image with it already installed for inmediate testing. All documented tools are bond to a free, open source or public domain license wich allow acces, modification and redistribution of code to any person or entity.
+
+The Civic Tech Test Lab (CTTL) is a project made by the Cátedra Tecnología Cívica y Empoderamiento (TCE) promoted by the Delegació de Transparència i Govern Obert of the Diputació de València together with the Universitat Politècnica de València. The initative has as objective the compilation, analisis and documentation of civic tools wich help citizenship empowerment and solve open government problems.
 
 ## Compilation
 

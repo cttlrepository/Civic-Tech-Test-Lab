@@ -1,9 +1,11 @@
 # Civic Tech Test Lab
 
-Aquest document també està en [anglès](README_en.md) i [espanyol](/README.md).
+Aquest document també està en [anglès](README_en.md) i [espanyol](/README.md). Tant aquest com tots els documents dels servicis recopilats estàn llicenciats baix la [GNU Free Documentation License](/LICENSE).
 
 ## Qué és això
-CTTL es un projecte realitzat per la càtedra Tecnología Cívica y Empoderamiento (TCE) de la Universitat Politècnica de Valencia que cerca la recopilació, el anàlisis i la documentació de tecnologies cíviques que ajuden a l'apoderament ciutadà i solucionen problemes de govern obert. Per realitzar aquest propòsit presentem una llista amb les tecnologies que compleixen els criteris mencionats. Per a cada una es explica la seua instalació i es proporciona un entorn virtualitzat per a testejar de manera immediata. Totes les tecnologies a continuació documentades están subjectes a llicències de software lliure, obert o de domini públic, permetent el acces, la modificació i la redistribució del codi a cualsevol persona o entitat.
+
+El Civic Tech Test Lab (CTTL) es un projecte realitzat per la Cátedra Tecnología Cívica y Empoderamiento (TCE) promoguda per la Delegació de Transparència i Govern Obert de la Diputació de Valéncia juntament amb la Universitat Politècnica de València. La iniiciativa té com a objectiu la recopilació, l'anàlisi i la documentació de'eines cíviques que faciliten l'apoderament ciutadá i solució de problemes de govern obert.
+
 
 ## Recopilació
 
