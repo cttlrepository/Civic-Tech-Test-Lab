@@ -27,10 +27,10 @@ Esta guia está disponible en castellano (este documento), [inglés](README_en.m
 
 > una plataforma digital de participación ciudadana
 
-[Decidim](decidim.org) es un framework que ayuda a origanizaciones y equipos construir una esfera democrática virtual a sus usuarios. Permite la creación de un flujo participativo que incluye procesos, asambleas, consultas y conferencias.
+[Decidim](decidim.org) es un framework que ayuda a origanizaciones y equipos a construir una esfera democrática virtual a sus usuarios. Permite la creación de un flujo participativo que incluye procesos, asambleas, consultas y conferencias.
 
 Un proceso es una definición del tipo ciclo de vida la cual recoge actividades hechas por un usuario en un determinado contexto. Por ejemplo, la implementación de `decidim` a la ciudad de Barcelona define un proceso para diagnosticar la necesidad de revisión y reequipamiento de infraestructura pública a Nou barris.
-Un usuario `decidim` puede seleccionar un proceso dado y crear una propuesta al mismo, por ejemplo, la nececsidad de crear un espacio infantil o un parque. Las propuestas pueden ser comentadas y aprobadas por otros miembros de la organización. El ciclo de vida de un proceso está hecho a medida para cada uno de ellos, esto es, sus pasos son creados cuando un proceso es definido, aunque un paso denominado 'Introduccón' será automáticamente añadido por defecto.
+Un usuario `decidim` puede seleccionar un proceso dado y crear una propuesta al mismo, por ejemplo, la necesidad de crear un espacio infantil o un parque. Las propuestas pueden ser comentadas y aprobadas por otros miembros de la organización. El ciclo de vida de un proceso está hecho a medida para cada uno de ellos, esto es, sus pasos son creados cuando un proceso es definido, aunque un paso denominado 'Introduccón' será automáticamente añadido por defecto.
 
 <a name="authorship"></a>
 ## Autoría
@@ -53,7 +53,7 @@ Una configuración mínima para testeo no necesitará más de 2GB de RAM y 1 cor
 Para desplegar este servicio hemos usado la imagen docker `airdoc/rvm`, basada en Debian Jessie.
 <a name="deps"></a>
 ### Dependencias
-| Software | Minimal version | Recommended version | Package manager |
+| Software | Versión mínima | Versión recomendada | Gestor de paquetes |
 | :-------- | --------------- | ------------------- | --------------- |
 | ruby | 2.5.1 | 2.5.1 | sistema |
 | gems | 2.5.1 | 2.7.9 | sistema |
@@ -81,7 +81,7 @@ sudo -u postgres psql -c "CREATE USER decidim_cttl WITH SUPERUSER CREATEDB NOCRE
 decidim decidim_cttl
 cd decidim_cttl
 ```
-Ahora que estamos dentro de la carpeta raíz del proyecto, necestamos editar el Gemfile de acuerdo a nuestras necesidades.
+Ahora que estamos dentro de la carpeta raíz del proyecto, necesitamos editar el Gemfile de acuerdo a nuestras necesidades.
 Creamos una sección para nuestro despliegue y añadimos la gema `figaro` para que sea instalada más tarde.
 
 ```vim
@@ -120,7 +120,7 @@ bin/rails s
 ```
 <a name="docs"></a>
 ## Documentación oficial
-- [Guia de instalación de Platoniq en Ubuntu 18.04](https://github.com/Platoniq/decidim-install/blob/master/decidim-bionic.md)
+- [Guía de instalación de Platoniq en Ubuntu 18.04](https://github.com/Platoniq/decidim-install/blob/master/decidim-bionic.md)
 - [Guías de instalación oficiales](https://github.com/decidim/decidim/blob/master/docs/getting_started.md)
 
 
@@ -137,4 +137,4 @@ Por otro lado, en vez de un proxy inverso, también existe el software [passenge
 <a name="val"></a>
 ## Valoración
 
-Aunque no exista, a priori, restricción de uso para organizaciones pequeñas, este servicio es _gigante_ lo que implica que su instalación y preparación para producción puede ser tediosa, especialmente cuando solo el versionado de ruby es una tarea ardua en sí misma. Si se desea una instalación rápida, recomendamos la oficial mediante docker
+Aunque no exista, a priori, restricción de uso para organizaciones pequeñas, este servicio es _gigante_, lo que implica que su instalación y preparación para producción puede ser tediosa, especialmente cuando solo el versionado de ruby es una tarea ardua en sí misma. Si se desea una instalación rápida, recomendamos la oficial mediante docker
