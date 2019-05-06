@@ -25,7 +25,7 @@ Esta guia está disponible en castellano (este documento), [inglés](README_en.m
 <a name="desc"></a>
 ## Descripción
 
-> [Shareabouts](https://github.com/openplans/shareabouts#shareabouts-) es un mapa online para recoger procesos sociales de colaboración abierta. Al desplazar un pin en el mapa se pueden proveer ideas, sugestiones y comentarios para planear o diseñar mejoras y problemas. Además, al ser una aplicación mobile-friendly, resulta facil añadir entradas rápidamente.
+> [Shareabouts](https://github.com/openplans/shareabouts#shareabouts-) es un mapa online para recoger procesos sociales de colaboración abierta. Al desplazar un pin en el mapa se pueden proveer ideas, sugerencia y comentarios para planear o diseñar mejoras y problemas. Además, al ser una aplicación mobile-friendly, resulta facil añadir entradas rápidamente.
 
 [Shareabouts](https://github.com/openplans/shareabouts), teniendo como base el mapa de un lugar específico, permite a los usuarios - sin necesidad de registro ni tratamiento de datos - registrar una mejora o un problema en un punto del mismo.
 
@@ -46,6 +46,7 @@ Desarrollado bajo la licencia [GPLv3](https://github.com/openplans/shareabouts/b
 <a name="install"></a>
 ## Instalación
 
+
 <a name="env"></a>
 ### Entorno
 <a name="deps"></a>
@@ -56,6 +57,17 @@ Desarrollado bajo la licencia [GPLv3](https://github.com/openplans/shareabouts/b
 ## Documentación oficial
 <a name="comms"></a>
 ## Comentarios adicionales
+```bash
+# backend
+su postgres
+/usr/lib/postgresql/11/bin/pg_ctl -D /var/lib/postgresql/data -l logfile start
+cd shareabouts-api
+src/manage.py runserver 0.0.0.0:8001
+# frontend
+cd; cd shareabouts
+source bin/env/activate
+src/manage.py runserver 0.0.0.0:8000
+```
 <a name="sec"></a>
 ## Seguridad
 <a name="val"></a>
