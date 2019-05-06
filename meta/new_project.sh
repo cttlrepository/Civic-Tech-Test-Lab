@@ -2,7 +2,6 @@
 
 filename=$(basename "$0")
 usage="$filaneme [-h] [PROJECT_NAME] 
-ll=$(ls -l)
 \n\tDESCRICIÓN\n
 \t\teste script crea un nuevo proyecto con las plantillas para los idiomas disponibles, así como actualizar el README.md general\n"
 
