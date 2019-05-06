@@ -9,5 +9,5 @@ CTTL es a project made by the Tecnología Cívica y Empoderamientos professorshi
 | Service | Author | License | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Citizen OS](/citizenos) | Citizeon OS | Apache 2.0 | Collaboration, votes, open government|
-| [decidim](/decidim) | decidim | |
+| [decidim](/decidim) | decidim | AGPL v3| Democratic digital platform, votes, open government|
 | [shareabouts](/shareabouts) | shareabouts | |
