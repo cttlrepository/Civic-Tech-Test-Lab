@@ -12,3 +12,5 @@ The Civic Tech Test Lab (CTTL) is a project made by the Cátedra Tecnología Cí
 | [Citizen OS](/citizenos) | Citizeon OS | Apache 2.0 | Collaboration, votes, open government|
 | [decidim](/decidim) | decidim | AGPL v3| Democratic digital platform, votes, open government|
 | [shareabouts](/shareabouts) | shareabouts | |
+| [fixmystreet](/fixmystreet) | fixmystreet | |
+| [openproject](/openproject) | openproject | |

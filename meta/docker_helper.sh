@@ -39,7 +39,7 @@ if [ "$1" == "-r" ]; then
 		echo $usage
 		exit 1
 	fi
-	docker run --name $2 -it $3 bash --login 
+	docker run --expose 8000 --expose 8001 --expose 3000 --name $2 -it $3 bash --login 
 fi
 
 
