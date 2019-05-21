@@ -25,13 +25,13 @@ where the tag specifies the desired image. Currently we provide:
         ```
         
         Postgres service is available via its default daemon `service postgresql start`. To access the database,
-        either via the binaries - eg: `psql` or a rails app, you need to use `postgres` as user and as password. The authentication
+        either via the binaries - eg: `psql` or a rails app, you'll need to use `postgres` as user and as password. The authentication
         default behaviour was changed to md5 via the config file `/etc/postgresql/10/main/pg_hba.conf`
      - Python generic 
      
         `docker pull cairimitoaie/cttl:py`
  
-        django-ready virtualenv-based and postgresql 10 installed
+        django-ready virtualenv-based with postgresql 10 installed
         
         py2 (2.7.15rc1) environment available via:
         ```bash
