@@ -13,3 +13,5 @@ El Civic Tech Test Lab (CTTL) es un proyecto realizado por la C√°tedra Tecnolog√
 | [shareabouts](/shareabouts) | shareabouts | |
 | [fixmystreet](/fixmystreet) | fixmystreet | |
 | [openproject](/openproject) | openproject | |
+| [ddh](/ddh) | ddh | |
+| [portal_votos](/portal_votos) | portal_votos | |
