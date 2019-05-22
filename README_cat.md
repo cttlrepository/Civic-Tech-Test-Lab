@@ -8,6 +8,24 @@ El Civic Tech Test Lab (CTTL) es un projecte realitzat per la Cátedra Tecnolog�
 
 
 ## Recopilació
+Els serveis están classificats en funció de les categories del govern obert
+
+
+| [ddh](/ddh) | ddh | |
+| [portal_votos](/portal_votos) | portal_votos | |
+| [openrefine](/openrefine) | openrefine | |
+
+
+A la hora de recopilar la información hemos clasificado las herramientas según las directrices del gobierno abierto.
+
+- Transparència y dades
+
+
+| Servici   | Autor       | Llicència   | Tags |
+| :--------- | :---------- | :--------- | :------ |
+| [openrefine](/openrefine) | openrefine | BSD-3-Clause| Filtrat de dades, Tractament de dades
+
+- Colaboració
 
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
@@ -16,5 +34,10 @@ El Civic Tech Test Lab (CTTL) es un projecte realitzat per la Cátedra Tecnolog�
 | [shareabouts](/shareabouts) | shareabouts | |
 | [fixmystreet](/fixmystreet) | fixmystreet | |
 | [openproject](/openproject) | openproject | |
+
+- Rendició de comptes
+
+| Servici   | Autor       | Llicència   | Tags |
+| :--------- | :---------- | :--------- | :------ |
 | [ddh](/ddh) | ddh | |
 | [portal_votos](/portal_votos) | portal_votos | |
