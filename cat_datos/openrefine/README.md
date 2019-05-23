@@ -62,10 +62,14 @@ OpenRefine está licenciado bajo BSD-3
 <a name="install"></a>
 ## Instalación
 <a name="env"></a>
-
 ### Entorno
 <a name="deps"></a>
-La instalación del servicio se ha realizado sobre una distribución Archlinux.
+
+|Servicio|Version minima|Version recomendada|Gestor de paquetes|
+|--------|--------------|-------------------|------------------|
+|Java|Por defecto|Por defecto|Sistema|
+|wget/curl|Por defecto|Por defecto|Sistema|
+
 ### Dependencias
 Las dependencias son gestionadas por el instalador en un click del repositorio
 <a name="deploy"></a>
@@ -85,7 +89,7 @@ Proporcionamos una imagen docker con OpenRefine instalado y listo para correr co
 ```
 docker pull cttl/cttl:openrefine
 docker run --name openrefine -it cttl/cttl:openrefine bash
-cd /root/openrefine; ./refine
+cd /root/openrefine; ./refine -i 0.0.0.0
 ```
 
 <a name="sec"></a>
