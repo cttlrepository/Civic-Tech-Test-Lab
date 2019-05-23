@@ -11,7 +11,7 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [openrefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, Tratamiento de datos
+| [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, Tratamiento de datos
 
 - [Colaboración](/cat_participación/)
 
