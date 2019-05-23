@@ -21,7 +21,6 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | [Decidim](/cat_participación/decidim) | decidim | AGPL v3 | Plataforma digital democrática, votos, gobierno abierto |
 | [Shareabouts](/cat_participación/shareabouts) | shareabouts | |
 | [Fixmystreet](/cat_participación/fixmystreet) | fixmystreet | |
-| [OpenProject](/cat_participación/openproject) | openproject | |
 
 
 - [Rendición de cuentas](/cat_rdc/)

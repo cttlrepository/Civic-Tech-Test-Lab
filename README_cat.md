@@ -24,14 +24,13 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Citizen OS]((/cat_participación/citizenos) | Citizeon OS | Apache 2.0 | Colaboració, vots, govern obert|
-| [decidim]((/cat_participación/decidim) | decidim | AGPL v3| Plataform digital democràtica, vots, govern obert |
-| [shareabouts]((/cat_participación/shareabouts) | shareabouts | |
-| [fixmystreet]((/cat_participación/fixmystreet) | fixmystreet | |
-| [openproject]((/cat_participación/openproject) | openproject | |
+| [Decidim]((/cat_participación/decidim) | decidim | AGPL v3| Plataform digital democràtica, vots, govern obert |
+| [Shareabouts]((/cat_participación/shareabouts) | shareabouts | |
+| [FixMystreet]((/cat_participación/fixmystreet) | fixmystreet | |
 
 - [Rendició de comptes](/cat_rdc)
 
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [ddh](/cat_rdc/ddh) | ddh | |
-| [portal_votos](/cat_rdc/portal_votos) | portal_votos | |
+| [Del dicho al hecho](/cat_rdc/ddh) | ddh | |
+| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | portal_votos | |

@@ -27,7 +27,6 @@ The projects are classified as they comply with the open government categories.
 | [Decidim](/cat_participación/decidim) | decidim | AGPL v3| Democratic digital platform, votes, open government|
 | [Shareabouts](/cat_participación/shareabouts) | shareabouts | |
 | [Fixmystreet](/cat_participación/fixmystreet) | fixmystreet | |
-| [OpenProject](/cat_participación/openproject) | openproject | |
 
 
 - [Accountability](/cat_rdc)
