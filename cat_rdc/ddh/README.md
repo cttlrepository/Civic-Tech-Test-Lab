@@ -78,7 +78,7 @@ Para añadir un nuevo gobierno/presidente, será necesario editar la variable `g
 
 ```json
   "name": "Sebastián Piñera II",
-        "years": {'start': 2018, 'end': 2022},
+        "years": {"start": 2018, "end": 2022},
         "color1": "#12D0D8",
         "color2": "#66DEE3",
         "color3": "#9AFAFF",

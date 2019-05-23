@@ -7,27 +7,27 @@ El Civic Tech Test Lab (CTTL) es un proyecto realizado por la Cátedra Tecnolog�
 ## Recopilación
 A la hora de recopilar la información hemos clasificado las herramientas según las directrices del gobierno abierto.
 
-- Transparencia y datos
+- [Transparencia y datos](/cat_tyd)
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [openrefine](/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, Tratamiento de datos
+| [openrefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, Tratamiento de datos
 
-- Colaboración
-
-| Servicio   | Autor       | Licencia   | Tags |
-| :--------- | :---------- | :--------- | :------ |
-| [Citizen OS](/citizenos) | Citizeon OS | Apache 2.0 | Colaboración, votos, gobierno abierto|
-| [decidim](/decidim) | decidim | AGPL v3 | Plataforma digital democrática, votos, gobierno abierto |
-| [shareabouts](/shareabouts) | shareabouts | |
-| [fixmystreet](/fixmystreet) | fixmystreet | |
-| [openproject](/openproject) | openproject | |
-
-
-- Rendición de cuentas
+- [Colaboración](/cat_participación)
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [ddh](/ddh) | ddh | |
-| [portal_votos](/portal_votos) | portal_votos | |
+| [Citizen OS](/cat_participación/citizenos) | Citizeon OS | Apache 2.0 | Colaboración, votos, gobierno abierto|
+| [decidim](/cat_participación/decidim) | decidim | AGPL v3 | Plataforma digital democrática, votos, gobierno abierto |
+| [shareabouts](/cat_participación/shareabouts) | shareabouts | |
+| [fixmystreet](/cat_participación/fixmystreet) | fixmystreet | |
+| [openproject](/cat_participación/openproject) | openproject | |
+
+
+- [Rendición de cuentas](/cat_rdc)
+
+| Servicio   | Autor       | Licencia   | Tags |
+| :--------- | :---------- | :--------- | :------ |
+| [ddh](/cat_rdc/ddh) | ddh | | | 
+| [portal_votos](/cat_rdc/portal_votos) | portal_votos | |
 
