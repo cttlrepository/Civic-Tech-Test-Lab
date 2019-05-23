@@ -1,0 +1,32 @@
+Changelog
+=========
+
+New
+~~~
+- Added spanish documentation for portal. [Titan]
+- Added spanish documentation for ddh. [Titan]
+- New projects and project skeleton. [Titan]
+- Meta readme - english. [Jupiter III]
+- [meta utilities] first functional version of docker helper script.
+  [Titan]
+- Added shareabouts basic structure. [Titan]
+- Added spanish translation for decidim. [Titan]
+- Added english docs for the decidim project. [Jupiter III]
+- Added citizenos docs. [Titan]
+- Added meta and citizenos as the first documented project. [Titan]
+- Added the gnu free documentation license as the projects's license.
+
+Changes
+~~~~~~~
+- Fms: finished spanish documentation minus #additional_comments.
+  [Titan]
+- Changed repo description and added explicit license link. [Titan]
+- Main readme revamp - added decidim tags. [Titan]
+
+Fix
+~~~
+- Small fixes on project's URLs. [Titan]
+- Fixed errors regarding openrefine docker pull. [Titan]
+- New readme skeleton. [Titan]
+- Removed goodwork. [Titan]
+
