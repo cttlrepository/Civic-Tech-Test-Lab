@@ -1,10 +1,15 @@
 #!/usr/bin/env sh
 
 filename=$(basename "$0")
-usage="$filaneme [-h] [NOMBRE DE PROYECTO] [CARPETA DESTINO]
+usage="$filaneme [-h] [NOMBRE DE PROYECTO] [CATEGORÍA]
 \n\tDESCRICIÓN\n
-\t\teste script crea un nuevo proyecto con las plantillas para los idiomas disponibles, así como actualizar el README.md general\n"
+\t\teste script crea un nuevo proyecto con las plantillas para los idiomas disponibles\n
+\n\tCATEGORÍA\n
+\t\t td: Transparencia y datos
+\n\t\t c: Colaboración <- por defecto 
+\n\t\t rc: Rendición de cuentas" 
 
+cat="cat_participación"
 
 if [ "$1" == "-h" ]; then
 	echo -e $usage
@@ -17,18 +22,14 @@ if [ -z "$1" ]; then
 	exit 1
 fi
 
-if [ -z "$2" ]; then
-	$2="."
+if [ "$2" == "td" ]; then
+	cat="cat_tyd"
 fi
 
+if [ "$2" == "rc" ]; then
+	cat="cat_rdc"
+fi
+mkdir -p ../$cat/$1
+cp -r templates/* ../$cat/$1/
 
-
-mkdir $2/$1
-cp -r templates/* $2/$1/
-
-string="| [$1](/$1) | $1 |  |"
-
-echo $string >> ../README.md
-echo $string >> ../README_en.md
-echo $string >> ../README_cat.md
 
