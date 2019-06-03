@@ -63,15 +63,17 @@ OpenRefine está licenciado bajo BSD-3
 ## Instalación
 <a name="env"></a>
 ### Entorno
-<a name="deps"></a>
 
-|Servicio|Version minima|Version recomendada|Gestor de paquetes|
+Proyecto desplegado sobre una imagen docker `Ubuntu:18.04`.
+
+<a name="deps"></a>
+### Dependencias
+
+|Servicio|Versión minima|Versión recomendada|Gestor de paquetes|
 |--------|--------------|-------------------|------------------|
 |Java|Por defecto|Por defecto|Sistema|
 |wget/curl|Por defecto|Por defecto|Sistema|
 
-### Dependencias
-Las dependencias son gestionadas por el instalador en un click del repositorio
 <a name="deploy"></a>
 ### Despliegue
 
@@ -94,7 +96,9 @@ cd /root/openrefine; ./refine -i 0.0.0.0
 
 <a name="sec"></a>
 ## Seguridad
-OpenRefine provee su interfaz mediante un servidor web básico sin ningún tipo de solución de seguridad, luego, en entornos donde varias máquinas trabajen sobre un solo servidor OpenRefine, será interesante aplicar las medidas de seguridad, por lo menos básicas, para este tipo de servicios - implementar un proxy inverso para encryptación HTTPS, entre otros.
+    OpenRefine provee su interfaz mediante un servidor web básico sin ningún tipo de solución de seguridad, luego, en entornos donde varias máquinas trabajen sobre un solo servidor OpenRefine, será interesante aplicar las medidas de seguridad, por lo menos básicas, para este tipo de servicios - implementar un proxy inverso para encryptación HTTPS, entre otros.
 
 <a name="val"></a>
 ## Valoración
+
+Encontramos OpenRefine fácil de instalar y fácil de usar siempre y cuando el objeto de uso esté claro. 
