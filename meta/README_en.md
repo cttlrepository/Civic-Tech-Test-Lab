@@ -1,10 +1,10 @@
 # Image hub
-All images provided are stored at DockerHub. To access them, you'll have to pull from there via `docker pull cairimitoaie/cttl:[TAG]`
+All images provided are stored at [DockerHub](https://hub.docker/u/cttl). To access them, you'll have to pull from there via `docker pull cttl/cttl:[TAG]`
 where the tag specifies the desired image. Currently we provide:
  - Generics:
      - Rails generic 
      
-        `docker pull cairimitoaie/cttl:rails`
+        `docker pull cttl/rails`
  
         Rails-ready [rbenv-based](https://github.com/rbenv/rbenv) with ruby 2.6.1 and postgresql 10 installed.
         
@@ -29,7 +29,7 @@ where the tag specifies the desired image. Currently we provide:
         default behaviour was changed to md5 via the config file `/etc/postgresql/10/main/pg_hba.conf`
      - Python generic 
      
-        `docker pull cairimitoaie/cttl:py`
+        `docker pull cttl/py`
  
         django-ready virtualenv-based with postgresql 10 installed
         
@@ -50,35 +50,41 @@ where the tag specifies the desired image. Currently we provide:
  - Services:
      - Shareabouts 
      
-        `docker pull cairimitoaie/cttl:shareabouts`
+        `docker pull cttl/shareabouts`
         
         More [here](https://github.com/cttlrepository/cttl/shareabouts)
      - Citizenos 
      
-        `docker pull cairimitoaie/cttl:citizenos`
+        `docker pull cttl/citizenos`
         
         More [here](https://github.com/cttlrepository/cttl/citizenos)
      - Del dicho al hecho 
      
-        `docker pull cairimitoaie/cttl:ddh`
+        `docker pull cttl/ddh`
          
          More [here](https://github.com/cttlrepository/cttl/ddh)
      - FixMyStreet 
      
-        `docker pull cairimitoaie/cttl:fms`
+        `docker pull cttl/fms`
         
         More [here](https://github.com/cttlrepository/cttl/fixmystreet)
      - Froide 
      
-        `docker pull cairimitoaie/cttl:froide`
+        `docker pull cttl/froide`
         
         More [here](https://github.com/cttlrepository/cttl/froide)
-     - OpenProject 
+
+     - OpenRefine
      
-        `docker pull cairimitoaie/cttl:openproject`
-         
-         More [here](https://github.com/cttlrepository/openproject)
-     
+     	`docker pull cttl/openrefine`
+        
+     	More [here](https://github.com/)
+       
+     - Bokeh
+
+		`docker pull cttl/bokeh`
+       
+       More [here](https://github.com)
      
 # Utils
 - `new_project.sh`
