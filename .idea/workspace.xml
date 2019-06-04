@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b6c8c2-b6bf-4869-9549-09958636b262" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_cat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README_en.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_participación/citizenos/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/citizenos/README_cat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_participación/decidim/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/decidim/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_participación/decidim/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/decidim/README_cat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_participación/decidim/README_en.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/decidim/README_en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_participación/fixmystreet/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/fixmystreet/README_cat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_participación/fixmystreet/README_en.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/fixmystreet/README_en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cat_participación/shareabouts/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/shareabouts/README_cat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat_rdc/ddh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_rdc/ddh/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_participación/shareabouts/README_en.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_participación/shareabouts/README_en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cat_rdc/ddh/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_rdc/ddh/README_cat.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cat_rdc/ddh/README_en.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_rdc/ddh/README_en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_rdc/portal_votos/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_rdc/portal_votos/README_cat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_rdc/portal_votos/README_en.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_rdc/portal_votos/README_en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_tyd/openrefine/README_cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_tyd/openrefine/README_cat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_tyd/openrefine/README_en.md" beforeDir="false" afterPath="$PROJECT_DIR$/cat_tyd/openrefine/README_en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openproject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openproject/README_cat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openproject/README_en.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,21 +35,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="196">
-                <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <first_editor relative-caret-position="448">
+                <caret line="32" selection-start-line="32" selection-end-line="32" />
               </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README_cat.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -48,12 +46,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README_en.md">
+        <entry file="file://$PROJECT_DIR$/README_cat.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="350">
-                <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
-              </first_editor>
+              <first_editor />
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -87,19 +83,31 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/cat_tyd/openrefine/README_cat.md" />
         <option value="$PROJECT_DIR$/cat_tyd/openrefine/README.md" />
-        <option value="$PROJECT_DIR$/cat_tyd/openrefine/README_en.md" />
-        <option value="$PROJECT_DIR$/cat_participación/fixmystreet/README_en.md" />
-        <option value="$PROJECT_DIR$/cat_participación/fixmystreet/README_cat.md" />
         <option value="$PROJECT_DIR$/cat_participación/fixmystreet/README.md" />
-        <option value="$PROJECT_DIR$/cat_participación/shareabouts/README_en.md" />
         <option value="$PROJECT_DIR$/cat_participación/shareabouts/README.md" />
-        <option value="$PROJECT_DIR$/cat_participación/shareabouts/README_cat.md" />
-        <option value="$PROJECT_DIR$/cat_rdc/ddh/README_cat.md" />
         <option value="$PROJECT_DIR$/cat_rdc/ddh/README.md" />
-        <option value="$PROJECT_DIR$/cat_rdc/ddh/README_en.md" />
         <option value="$PROJECT_DIR$/README_en.md" />
+        <option value="$PROJECT_DIR$/meta/templates/README.md" />
+        <option value="$PROJECT_DIR$/meta/templates/README_en.md" />
+        <option value="$PROJECT_DIR$/openproject/README.md" />
+        <option value="$PROJECT_DIR$/openproject/README_cat.md" />
+        <option value="$PROJECT_DIR$/openproject/README_en.md" />
+        <option value="$PROJECT_DIR$/cat_participación/citizenos/README_cat.md" />
+        <option value="$PROJECT_DIR$/meta/templates/README_cat.md" />
+        <option value="$PROJECT_DIR$/cat_participación/decidim/README_cat.md" />
+        <option value="$PROJECT_DIR$/cat_participación/fixmystreet/README_en.md" />
+        <option value="$PROJECT_DIR$/cat_participación/decidim/README_en.md" />
+        <option value="$PROJECT_DIR$/cat_participación/decidim/README.md" />
+        <option value="$PROJECT_DIR$/cat_participación/fixmystreet/README_cat.md" />
+        <option value="$PROJECT_DIR$/cat_participación/shareabouts/README_cat.md" />
+        <option value="$PROJECT_DIR$/cat_participación/shareabouts/README_en.md" />
+        <option value="$PROJECT_DIR$/cat_rdc/ddh/README_cat.md" />
+        <option value="$PROJECT_DIR$/cat_rdc/ddh/README_en.md" />
+        <option value="$PROJECT_DIR$/cat_rdc/portal_votos/README_en.md" />
+        <option value="$PROJECT_DIR$/cat_rdc/portal_votos/README_cat.md" />
+        <option value="$PROJECT_DIR$/cat_tyd/openrefine/README_cat.md" />
+        <option value="$PROJECT_DIR$/cat_tyd/openrefine/README_en.md" />
       </list>
     </option>
   </component>
@@ -132,6 +140,24 @@
               <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
               <item name="cttl" type="462c0819:PsiDirectoryNode" />
               <item name="cat_participación" type="462c0819:PsiDirectoryNode" />
+              <item name="citizenos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cttl" type="462c0819:PsiDirectoryNode" />
+              <item name="cat_participación" type="462c0819:PsiDirectoryNode" />
+              <item name="decidim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cttl" type="462c0819:PsiDirectoryNode" />
+              <item name="cat_participación" type="462c0819:PsiDirectoryNode" />
+              <item name="fixmystreet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cttl" type="462c0819:PsiDirectoryNode" />
+              <item name="cat_participación" type="462c0819:PsiDirectoryNode" />
               <item name="shareabouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -150,6 +176,28 @@
               <item name="cttl" type="462c0819:PsiDirectoryNode" />
               <item name="cat_rdc" type="462c0819:PsiDirectoryNode" />
               <item name="portal_votos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cttl" type="462c0819:PsiDirectoryNode" />
+              <item name="cat_tyd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cttl" type="462c0819:PsiDirectoryNode" />
+              <item name="cat_tyd" type="462c0819:PsiDirectoryNode" />
+              <item name="openrefine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cttl" type="462c0819:PsiDirectoryNode" />
+              <item name="meta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cttl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cttl" type="462c0819:PsiDirectoryNode" />
+              <item name="meta" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="5" width="1356" height="739" extended-state="0" />
+    <frame x="5" y="5" width="1356" height="739" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981245" />
@@ -208,7 +256,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32933232" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,11 +276,11 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cat_tyd/openrefine/README_cat.md">
+    <entry file="file://$PROJECT_DIR$/meta/templates/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1086">
-            <caret line="127" column="122" selection-start-line="127" selection-start-column="122" selection-end-line="127" selection-end-column="122" />
+          <first_editor relative-caret-position="540">
+            <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -240,11 +288,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat_tyd/openrefine/README_en.md">
+    <entry file="file://$PROJECT_DIR$/meta/templates/README_en.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="798">
-            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <first_editor relative-caret-position="540">
+            <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -252,11 +300,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat_tyd/openrefine/README.md">
+    <entry file="file://$PROJECT_DIR$/README_en.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="308">
-            <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="302">
+            <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta/templates/README_cat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" lean-forward="true" selection-start-column="2" selection-end-column="20" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_participación/citizenos/README_cat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -267,7 +339,9 @@
     <entry file="file://$PROJECT_DIR$/cat_participación/decidim/README_cat.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="32" />
+          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
@@ -277,18 +351,8 @@
     <entry file="file://$PROJECT_DIR$/cat_participación/decidim/README_en.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat_participación/fixmystreet/README_en.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="518">
-            <caret line="157" selection-start-line="157" selection-end-line="157" />
+          <first_editor>
+            <caret column="32" selection-start-column="32" selection-end-column="32" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -296,11 +360,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat_participación/fixmystreet/README.md">
+    <entry file="file://$PROJECT_DIR$/cat_participación/citizenos/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="32" column="318" selection-start-line="32" selection-start-column="318" selection-end-line="32" selection-end-column="318" />
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_participación/citizenos/README_en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_participación/decidim/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="32" selection-start-column="32" selection-end-column="32" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_participación/decidim/.history">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_participación/fixmystreet/README_en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="40" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -311,8 +410,8 @@
     <entry file="file://$PROJECT_DIR$/cat_participación/fixmystreet/README_cat.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="546">
-            <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <first_editor relative-caret-position="294">
+            <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -320,23 +419,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat_participación/shareabouts/README_en.md">
+    <entry file="file://$PROJECT_DIR$/cat_participación/fixmystreet/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat_participación/shareabouts/README_cat.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
-            <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <first_editor relative-caret-position="448">
+            <caret line="32" column="318" selection-start-line="32" selection-start-column="318" selection-end-line="32" selection-end-column="318" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -347,8 +434,8 @@
     <entry file="file://$PROJECT_DIR$/cat_participación/shareabouts/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="196">
-            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <first_editor>
+            <caret column="57" lean-forward="true" selection-start-column="2" selection-end-column="57" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -356,11 +443,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat_rdc/ddh/README_cat.md">
+    <entry file="file://$PROJECT_DIR$/cat_participación/shareabouts/README_cat.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+          <first_editor relative-caret-position="308">
+            <caret line="61" column="10" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -368,11 +455,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat_rdc/ddh/README_en.md">
+    <entry file="file://$PROJECT_DIR$/cat_participación/shareabouts/README_en.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="14">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <first_editor>
+            <caret column="57" selection-start-column="57" selection-end-column="57" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -383,8 +470,140 @@
     <entry file="file://$PROJECT_DIR$/cat_rdc/ddh/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="14">
-            <caret line="26" selection-start-line="26" selection-end-line="27" />
+          <first_editor>
+            <caret column="89" lean-forward="true" selection-start-column="2" selection-end-column="89" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_rdc/ddh/README_en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="89" selection-start-column="89" selection-end-column="89" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_rdc/portal_votos/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="110" lean-forward="true" selection-start-column="2" selection-end-column="110" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_rdc/portal_votos/README_en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="110" selection-start-column="110" selection-end-column="110" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_rdc/portal_votos/README_cat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="274">
+            <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_rdc/ddh/README_cat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-462">
+            <caret column="89" selection-start-column="89" selection-end-column="89" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_tyd/openrefine/README_cat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="39" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_tyd/openrefine/README_en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="39" selection-start-column="39" selection-end-column="39" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_tyd/openrefine/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="630">
+            <caret line="45" selection-start-line="45" selection-end-line="45" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openproject/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="806">
+            <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openproject/README_cat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openproject/README_en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="470">
+            <caret line="47" selection-start-line="47" selection-end-line="47" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -395,8 +614,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="196">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <first_editor relative-caret-position="448">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -419,18 +638,6 @@
         </state>
       </provider>
       <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README_en.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="350">
-            <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
     </entry>
   </component>
   <component name="masterDetails">

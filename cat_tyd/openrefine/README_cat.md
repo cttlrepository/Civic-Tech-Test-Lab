@@ -75,7 +75,7 @@ OpenRefine està llicenciat amb BSD-3.
 <a name="reqs"></a>
 ## Requerimients hardware
 <a name="install"></a>
-## Instalació
+## Instal·lació
 <a name="env"></a>
 ### Entorn
 

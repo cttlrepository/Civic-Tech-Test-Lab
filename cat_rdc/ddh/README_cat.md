@@ -1,4 +1,4 @@
-# Títol del projecte
+# [Del dicho al hecho](https://github.com/ciudadanointeligente/del-dicho-al-hecho-ember) 
 
 Aquesta guia està disponible en valencià (aquest document), [espanyol](README.md) i [anglès](README_en.md). Més traducciones son benvolgudes a través d'un PR.
 
@@ -46,7 +46,7 @@ Sense llicència.
 Suposant que l'aplicació s'executa en un VPS, amb la majoria de plans bàsics és suficient per entorns de test o desenvolupament.
 
 <a name="install"></a>
-## Instalació
+## Instal·lació
 
 
 <a name="env"></a>

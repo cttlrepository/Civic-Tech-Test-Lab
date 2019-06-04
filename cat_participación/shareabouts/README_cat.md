@@ -1,4 +1,4 @@
-# Títol del projecte
+# [Shareabouts](https://github.com/openplans/shareabouts)
 
 Aquesta guia està disponible en valencià (aquest document), [espanyol](README.md) i [anglès](README_en.md). Més traducciones son benvolgudes a través d'un PR.
 
@@ -59,7 +59,7 @@ Una instalación básica para testear la aplicación no necesitará más de 0.5G
 
 
 <a name="install"></a>
-## Instalació
+## Instal·lació
 
 
 <a name="env"></a>

@@ -2,6 +2,28 @@
 
 Aquesta guia està disponible en valencià (aquest document), [espanyol](README.md) i [anglès](README_en.md). Més traducciones son benvolgudes a través d'un PR.
 
+
+
+### Tabla de continguts
+1. [ Descripció ](#desc)
+2. [ Autoria ](#authorship)
+3. [ Llicència ](#license)
+4. [ Requeriments hardware ](#reqs)
+5. [ Instal·lació ](#install)
+
+	5.1. [ Entorn ](#env) 
+	
+	5.2. [ Dependències ](#deps)
+	
+	5.3. [ Desplegament ](#deploy)
+
+	
+6. [ Documentació oficial ](#docs)
+7. [ Comentaris adicionals ](#comms)
+8. [ Seguretat ](#sec)
+9. [ Valoració ](#val)
+
+
 ## Descripció
 
 Citizen OS és una plataforma col·laborativa de codi lliure feta per a ajudar equips i organizacions a prendre decisions i totes les idiosincràsies que una peça de software pot resoldre per a ells. Permet la edició col·laborativa en temps real, votació, creació y gestió de projectes entre altes característiques.
@@ -37,7 +59,7 @@ Citizen OS està compost per tres servicis, on els seus requeriments es posaran 
 | **CPU**     | 1 core | 1 core | 1 core    |
 | **Memoria** | 1GB    | 1GB    | 0.5 GB	   |
 
-## Instalació
+## Instal·lació
 
 ### Entorn
 El desplegament dels servicis es fet via un contenidor docker amb image ubuntu:18.04.

@@ -1,4 +1,4 @@
-# Títol del projecte
+# [Decidim](https://decidim.org)
 
 Aquesta guia està disponible en valencià (aquest document), [espanyol](README.md) i [anglès](README_en.md). Més traducciones son benvolgudes a través d'un PR.
 
@@ -41,7 +41,7 @@ AGPL v3.
 Una configuración mínima para testeo no necesitará más de 2GB de RAM y 1 core pero en un despliegue de producción las necesidades crecerán a medida que el número de usuario aumente
 Una configuració mínima per a testejar no necessitarà més de 2GB de RAM i 1 core però en un desplegament de producció les necessitats creixeran a mesura que el nombre d'usuaris augmenta.
 <a name="install"></a>
-## Instalació
+## Instal·lació
 <a name="env"></a>
 ### Entorn
 Per a desplegar aquest servici hem utilitzat l'imatge docker `airdock/rvm`, basada en Debian Jessie.

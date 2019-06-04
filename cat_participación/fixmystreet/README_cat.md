@@ -1,4 +1,4 @@
-# Títol del projecte
+# [FixMyStreet](https://fixmystreet.org)
 
 Aquesta guia està disponible en valencià (aquest document), [espanyol](README.md) i [anglès](README_en.md). Més traducciones son benvolgudes a través d'un PR.
 
@@ -68,7 +68,7 @@ en entornos de producción la medida aumenta en función del alacance de los usu
 de qué otras herramientas s'encasten dins del servici.
 
 <a name="install"></a>
-## Instalació
+## Instal·lació
 <a name="env"></a>
 ### Entorn
 Hem desplegat el servicio amb el qual es va realitzar aquest document en un entorn

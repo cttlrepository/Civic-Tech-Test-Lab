@@ -1,4 +1,4 @@
-# Títol del projecte
+# [Votainteligente Portal Electoral](https://github.com/ciudadanointeligente/votainteligente-portal-electoral)
 
 Aquesta guia està disponible en valencià (aquest document), [espanyol](README.md) i [anglès](README_en.md). Més traducciones son benvolgudes a través d'un PR.
 
@@ -31,7 +31,7 @@ Aquesta guia està disponible en valencià (aquest document), [espanyol](README.
 <a name="reqs"></a>
 ## Requerimients hardware
 <a name="install"></a>
-## Instalació
+## Instal·lació
 <a name="env"></a>
 ### Entorn
 <a name="deps"></a>
