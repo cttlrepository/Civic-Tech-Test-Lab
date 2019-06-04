@@ -18,6 +18,7 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Openrefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrat de dades, Tractament de dades
+| [Bokeh](/cat_tyd/bokeh) | Anaconda Inc.| BSD-3-Clause| Visualització de dades, Tractament de dades
 
 - [Colaboració](/cat_participación)
 

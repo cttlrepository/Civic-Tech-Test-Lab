@@ -18,6 +18,7 @@ The projects are classified as they comply with the open government categories.
 | Service   | Author       | License   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Data filtering, Data cleaning
+| [Bokeh](/cat_tyd/bokeh) | Anaconda Inc.| BSD-3-Clause| Data visualization, Data cleaning
 
 - [Collaboration](/cat_participación)
 
