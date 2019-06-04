@@ -1,4 +1,4 @@
-# Título del proyecto
+# [Del dicho al hecho](https://github.com/ciudadanointeligente/del-dicho-al-hecho-ember) 
 
 Esta guia está disponible en castellano (este documento), [inglés](README_en.md) y [valenciano](README_cat.md). Más traducciones son bienvenidas mediante un PR.
 
@@ -40,7 +40,7 @@ Suponiendo que la aplicación se ejecuta en un VPS, con la mayoría de planes b�
 ## Instalación
 <a name="env"></a>
 ### Entorno
-Proyecto desplegado sobre nuestra imagen docker `cttl/cttl:rails`. Más información [aquí]()
+Proyecto desplegado sobre nuestra imagen docker `cttl/rails`. Más información [aquí](https://github.com/cttlrepository/cttl/meta).
 <a name="deps"></a>
 ### Dependencias
 
@@ -68,8 +68,8 @@ cd ddh; ember serve
 ## Comentarios adicionales
 Ponemos a disposición una imagen docker con el servicio instalado.
 ```bash
-docker pull cttl/cttl:ddh
-docker run --name ddh -it cttl/cttl:ddh bash
+docker pull cttl/ddh
+docker run --name ddh -it cttl/ddh bash
 cd /root/ddh; ember serve
 ```
 
@@ -100,5 +100,11 @@ Para añadir un nuevo gobierno/presidente, será necesario editar la variable `g
 <a name="sec"></a>
 ## Seguridad
 Recomendamos seguir las recomendaciones de seguridad, por lo menos, típicas, para la securización de servidores HTTP mediante proxies inversos, certificados SSL, etcétera.
+Por otro lado, recomendamos, si se va a utilizar el servicio en entornos de producción,
+desarrollar un pipeline seguro para introducir datos en el servidor para que un usuario
+no autorizado no tenga acceso a toda la configuración del servidor o el servidor en sí mismo.
 <a name="val"></a>
 ## Valoración
+Encontramos la instalación del servicio muy sencilla, sin embargo, la _alimentación_ de nuevos
+datos puede resultar tediosa desde el punto de vista del usuario, además de poder llegar
+a ser un problema de seguridad si los datos lo pueden proporcionar varios usuarios. 
