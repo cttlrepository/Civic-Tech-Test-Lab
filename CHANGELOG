@@ -1,30 +1,43 @@
 Changelog
 =========
 
+
+(unreleased)
+------------
+
 New
 ~~~
+- Adedd OpenRefine en and cat translations. [Titan]
 - Added spanish documentation for portal. [Titan]
 - Added spanish documentation for ddh. [Titan]
 - New projects and project skeleton. [Titan]
 - Meta readme - english. [Jupiter III]
 - [meta utilities] first functional version of docker helper script.
   [Titan]
+- Added catalan translation. [Titan]
 - Added shareabouts basic structure. [Titan]
 - Added spanish translation for decidim. [Titan]
 - Added english docs for the decidim project. [Jupiter III]
-- Added citizenos docs. [Titan]
-- Added meta and citizenos as the first documented project. [Titan]
-- Added the gnu free documentation license as the projects's license.
 
 Changes
 ~~~~~~~
+- Replaced master with dev's contents. [Titan]
+- Removed portal due to the use of deprecated technologies - Java8,
+  elasticsearch2.4. [Titan]
+- Added en and cat translation for ddh. [Titan]
+- Added en and cat translation for shareabouts. [Titan]
+- Added en and cat translation for fms. [Titan]
 - Fms: finished spanish documentation minus #additional_comments.
   [Titan]
+- Shareabouts spanish version almost done. [Titan]
 - Changed repo description and added explicit license link. [Titan]
-- Main readme revamp - added decidim tags. [Titan]
+- Main readme revam - added decidim tags. [Titan]
 
 Fix
 ~~~
+- Fixed several typos and missing FE configuration instructions. [Titan]
+- Small fixes on project's URLs. [Titan]
+- Small fixes on project's URLs. [Titan]
 - Small fixes on project's URLs. [Titan]
 - Fixed errors regarding openrefine docker pull. [Titan]
 - New readme skeleton. [Titan]
