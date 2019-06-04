@@ -33,4 +33,3 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Sin licencia|Rendició de comptes, OpenData
-| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) |  Fundación Ciudadano Inteligente|GPLv3 |Propostes, Rendició de comptes, Politica, Partits politics|

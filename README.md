@@ -28,5 +28,4 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Sin licencia| Rendición de cuentas, Open Data | 
-| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | Fundación Ciudadano Inteligente| GPLV3| Propuestas, rendición de cuentas, política, partidos políticos
 

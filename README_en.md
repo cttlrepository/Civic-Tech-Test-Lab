@@ -34,4 +34,3 @@ The projects are classified as they comply with the open government categories.
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Without license| Accountability, OpenData |
-| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | Fundación Ciudadnao Inteligente| GPLv3 | Proposals, Accountability, Politics, Political parties||
