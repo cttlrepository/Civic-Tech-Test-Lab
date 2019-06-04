@@ -11,22 +11,22 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, Tratamiento de datos
+| [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, tratamiento de datos
 
 - [Colaboración](/cat_participación/)
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Citizen OS](/cat_participación/citizenos) | Citizeon OS | Apache 2.0 | Colaboración, votos, gobierno abierto|
-| [Decidim](/cat_participación/decidim) | decidim | AGPL v3 | Plataforma digital democrática, votos, gobierno abierto |
-| [Shareabouts](/cat_participación/shareabouts) | shareabouts | |
-| [Fixmystreet](/cat_participación/fixmystreet) | fixmystreet | |
+| [Decidim](/cat_participación/decidim) | Decidim| AGPL v3 | Plataforma digital democrática, votos, gobierno abierto |
+| [Shareabouts](/cat_participación/shareabouts) | OpenPlans| GPLv3 | Mapas colaborativos, Open Data
+| [Fixmystreet](/cat_participación/fixmystreet) | mySociety| AGPLv3 | Mapas colaborativos, Open Data
 
 
 - [Rendición de cuentas](/cat_rdc/)
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [Del dicho al hecho](/cat_rdc/ddh) | ddh | | | 
-| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | portal_votos | |
+| [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Sin licencia| Rendición de cuentas, Open Data | 
+| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | Fundación Ciudadano Inteligente| GPLV3| Propuestas, rendición de cuentas, política, partidos políticos
 

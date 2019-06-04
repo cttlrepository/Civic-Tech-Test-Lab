@@ -24,13 +24,13 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Citizen OS]((/cat_participación/citizenos) | Citizeon OS | Apache 2.0 | Colaboració, vots, govern obert|
-| [Decidim]((/cat_participación/decidim) | decidim | AGPL v3| Plataform digital democràtica, vots, govern obert |
-| [Shareabouts]((/cat_participación/shareabouts) | shareabouts | |
-| [FixMystreet]((/cat_participación/fixmystreet) | fixmystreet | |
+| [Decidim]((/cat_participación/decidim) | Decidim| AGPL v3| Plataform digital democràtica, vots, govern obert |
+| [Shareabouts]((/cat_participación/shareabouts) | OpenPlans| GPLv3 | Mapes col·laboratives, OpenData|
+| [FixMystreet]((/cat_participación/fixmystreet) | mySociety| AGPLv3| Mapes col·laboratives, OpenData|
 
 - [Rendició de comptes](/cat_rdc)
 
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [Del dicho al hecho](/cat_rdc/ddh) | ddh | |
-| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | portal_votos | |
+| [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Sin licencia|Rendició de comptes, OpenData
+| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) |  Fundación Ciudadano Inteligente|GPLv3 |Propostes, Rendició de comptes, Politica, Partits politics|

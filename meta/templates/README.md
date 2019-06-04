@@ -24,25 +24,43 @@ Esta guia está disponible en castellano (este documento), [inglés](README_en.m
 
 <a name="desc"></a>
 ## Descripción
+
+
 <a name="authorship"></a>
 ## Autoría
+
+
 <a name="license"></a>
 ## Licencia
+
+
 <a name="reqs"></a>
 ## Requerimientos hardware
+
 <a name="install"></a>
 ## Instalación
+
+
 <a name="env"></a>
 ### Entorno
+
+
 <a name="deps"></a>
 ### Dependencias
+
+
 <a name="deploy"></a>
 ### Despliegue
+
+
 <a name="docs"></a>
 ## Documentación oficial
+
 <a name="comms"></a>
 ## Comentarios adicionales
+
 <a name="sec"></a>
 ## Seguridad
+
 <a name="val"></a>
 ## Valoración

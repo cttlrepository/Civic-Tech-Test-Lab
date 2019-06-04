@@ -24,25 +24,45 @@ Aquesta guia està disponible en valencià (aquest document), [espanyol](README.
 
 <a name="desc"></a>
 ## Descripció
+
+
 <a name="authorship"></a>
 ## Autoria
+
+
 <a name="license"></a>
 ## Llicència
+
+
 <a name="reqs"></a>
 ## Requerimients hardware
+
+
 <a name="install"></a>
 ## Instalació
+
+
 <a name="env"></a>
 ### Entorn
+
+
 <a name="deps"></a>
 ### Dependències
+
+
 <a name="deploy"></a>
 ### Desplegament
+
 <a name="docs"></a>
 ## Documentació oficial
+
+
 <a name="comms"></a>
 ## Comentaris adicionals
+
+
 <a name="sec"></a>
 ## Seguretat
+
 <a name="val"></a>
 ## Valoració

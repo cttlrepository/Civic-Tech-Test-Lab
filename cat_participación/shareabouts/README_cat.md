@@ -36,6 +36,7 @@ lloc específic del mapa, permet als usuarios - sense la necessitat de registrar
 millora o un problema en un punt del mapa.
 
 
+
 <a name="authorship"></a>
 ## Autoria
 

@@ -24,14 +24,14 @@ The projects are classified as they comply with the open government categories.
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [Citizen OS](/cat_participación/citizenos) | Citizeon OS | Apache 2.0 | Collaboration, votes, open government|
-| [Decidim](/cat_participación/decidim) | decidim | AGPL v3| Democratic digital platform, votes, open government|
-| [Shareabouts](/cat_participación/shareabouts) | shareabouts | |
-| [Fixmystreet](/cat_participación/fixmystreet) | fixmystreet | |
+| [Decidim](/cat_participación/decidim) | Decidim | AGPL v3| Democratic digital platform, votes, open government|
+| [Shareabouts](/cat_participación/shareabouts) | OpenPlans | GPLv3 | Collaboration maps, OpenData
+| [Fixmystreet](/cat_participación/fixmystreet) | mySociety| AGPLv3 | Collaboration maps, OpenData
 
 
 - [Accountability](/cat_rdc)
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [Del dicho al hecho](/cat_rdc/ddh) | ddh | |
-| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | portal_votos | |
+| [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Without license| Accountability, OpenData |
+| [Votainteligente Portal Electoral](/cat_rdc/portal_votos) | Fundación Ciudadnao Inteligente| GPLv3 | Proposals, Accountability, Politics, Political parties||
