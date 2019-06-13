@@ -96,4 +96,4 @@ Recomendamos configurar el servicio como https, cambiar el usuario y contraseña
 
 ## Valoración
 
-Kanboard es una aplicación intuitiva y sencilla, es útil para trabajos con que utilicen el método Kanban. 
+Kanboard es una aplicación intuitiva y sencilla, es útil para trabajos que utilicen el método Kanban. 
