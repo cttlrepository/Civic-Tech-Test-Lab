@@ -159,7 +159,7 @@ Finalmente tendremos nuestro servicio desplegado en http://el_nombre_de_tu_url_o
 
 ## Documentación oficial
 
-[RocketChat](https://rocket.chat/)
+[RocketChat](https://rocket.chat/)  
 [Guía de instalación oficial](https://rocket.chat/install)
 
 ## Seguridad
