@@ -12,6 +12,7 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, tratamiento de datos
+| [RAWGraphs](/juan_tyd/RAWGraphs) | DensityDesign | Apache 2.0| Gráficos, tratamiento de datos  
 
 - [Colaboración](/cat_participación/)
 
