@@ -74,4 +74,4 @@ Recomendamos configurar el servicio como https y cambiar la URL de acceso por de
 
 ## Valoración
 
-RAWGraphs es una aplicación que sirve como enlace entre plantillas y tablas de calculo y diferentes modelos gráficos. Admite diferentes tipos de formatos de entrada y tiene una gran variedad de tipos de visualizaciones. ES una aplicación útil para mostrar información y flexible para introducirse en una aplicación web más compleja.
+RAWGraphs es una aplicación que sirve como enlace entre plantillas y tablas de calculo y diferentes modelos gráficos. Admite diferentes tipos de formatos de entrada y tiene una gran variedad de tipos de visualizaciones. Es una aplicación útil para mostrar información y flexible para introducirse en una aplicación web más compleja.
