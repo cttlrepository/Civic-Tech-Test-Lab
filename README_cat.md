@@ -17,7 +17,8 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 
 | Servici   | Autor       | Llicència   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [Openrefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrat de dades, Tractament de dades
+| [Openrefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrat de dades, tractament de dades
+| [RAWGraphs](/cat_tyd/RAWGraphs) | DensityDesign| Apache 2.0| Gràfics, tractament de dades
 
 - [Colaboració](/cat_participación)
 
@@ -27,6 +28,8 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | [Decidim]((/cat_participación/decidim) | Decidim| AGPL v3| Plataform digital democràtica, vots, govern obert |
 | [Shareabouts]((/cat_participación/shareabouts) | OpenPlans| GPLv3 | Mapes col·laboratives, OpenData|
 | [FixMystreet]((/cat_participación/fixmystreet) | mySociety| AGPLv3| Mapes col·laboratives, OpenData|
+| [Rocket.Chat]((/cat_participación/Rocket.Chat) | Rocket.Chat| MIT| Coordinació, missatgeriaMapes col·laboratives, OpenData|
+| [Kanboard]((/cat_participación/Kanboard) | Kanboard| MIT| Col·laboració, divisió de tasqies. kanban
 
 - [Rendició de comptes](/cat_rdc)
 

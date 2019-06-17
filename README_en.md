@@ -18,6 +18,7 @@ The projects are classified as they comply with the open government categories.
 | Service   | Author       | License   | Tags |
 | :--------- | :---------- | :--------- | :------ |
 | [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Data filtering, Data cleaning
+| [RAWGrapsh](/cat_tyd/RAWGraphs) | DensityDesign| Apache 2.0| Graphics, data cleaning
 
 - [Collaboration](/cat_participación)
 
@@ -27,10 +28,12 @@ The projects are classified as they comply with the open government categories.
 | [Decidim](/cat_participación/decidim) | Decidim | AGPL v3| Democratic digital platform, votes, open government|
 | [Shareabouts](/cat_participación/shareabouts) | OpenPlans | GPLv3 | Collaboration maps, OpenData
 | [Fixmystreet](/cat_participación/fixmystreet) | mySociety| AGPLv3 | Collaboration maps, OpenData
+| [Rocket.Chat](/cat_participación/Rocket.Chat) | Rocket.CHat| MIT| Coordination, messaging 
+| [Kanboard](/cat_participación/Kanboard) | Kanboard| MIT| Collaboration, task fragmentation, kanban 
 
 
 - [Accountability](/cat_rdc)
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Without license| Accountability, OpenData |
+a [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Without license| Accountability, OpenData |
