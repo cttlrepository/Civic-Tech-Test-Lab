@@ -13,6 +13,7 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | :--------- | :---------- | :--------- | :------ |
 | [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Filtrado de datos, tratamiento de datos
 | [RAWGraphs](/cat_tyd/RAWGraphs) | DensityDesign | Apache 2.0| Gráficos, tratamiento de datos  
+| [LimeSurvey](/cat_tyd/LimeSurvey) | LimeSurvey | GPL 2.0| Encuestas, gráficos, tratamiento de datos  
 
 - [Colaboración](/cat_participación/)
 
