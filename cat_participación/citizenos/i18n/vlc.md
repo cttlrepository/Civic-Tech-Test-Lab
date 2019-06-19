@@ -1,6 +1,6 @@
 # [Citizen OS](https://citizenos.com)
 
-Aquesta guia està disponible en valencià (aquest document), [espanyol](README.md) i [anglès](README_en.md). Més traducciones son benvolgudes a través d'un PR.
+Aquesta guia està disponible en valencià (aquest document), [espanyol](../README.md) i [anglès](en.md). Més traducciones son benvolgudes a través d'un PR.
 
 
 

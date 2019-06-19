@@ -1,6 +1,6 @@
 # [Del dicho al hecho](https://github.com/ciudadanointeligente/del-dicho-al-hecho-ember) 
 
-Esta guia está disponible en castellano (este documento), [inglés](README_en.md) y [valenciano](README_cat.md). Más traducciones son bienvenidas mediante un PR.
+Esta guia está disponible en castellano (este documento), [inglés](i18n/en.md) y [valenciano](i18n/vlc.md). Más traducciones son bienvenidas mediante un PR.
 
 ### Tabla de contenidos
 1. [ Descripción ](#desc)

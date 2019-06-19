@@ -1,5 +1,5 @@
 # Civic Tech Test Lab
-This document is also available in [spanish](README.md) or [catalan](README_cat.md). All documents (including this one) provided by this repository are licensed under the [GNU Free Documentation License](/LICENSE).
+This document is also available in [spanish](../README.md) or [catalan](vlc.md). All documents (including this one) provided by this repository are licensed under the [GNU Free Documentation License](/LICENSE).
 
 ## What is this 
 
