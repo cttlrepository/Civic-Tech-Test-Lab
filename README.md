@@ -26,6 +26,7 @@ A la hora de recopilar la información hemos clasificado las herramientas según
 | [Fixmystreet](/cat_participación/fixmystreet) | mySociety| AGPLv3 | Mapas colaborativos, Open Data
 | [Rocket.Chat](/cat_participación/Rocket.Chat) | Rocket.Chat| MIT | Coordinación, mensajería
 | [Kanboard](/cat_participación/Kanboard) | Kanboard| MIT | Colaboración, división de tareas, kanban
+| [Demokratian](/cat_participación/Demokratian) | Demokratian| GPL 3.0 | Colaboración, herramienta de voto
 
 
 - [Rendición de cuentas](/cat_rdc/)
