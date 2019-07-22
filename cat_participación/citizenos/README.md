@@ -171,6 +171,6 @@ En entornos de producción recomendamos bloquear la salida de los puertos que lo
 ## Valoración
 Realizaremos nuestra valoración principalmente sobre la instalación - en función de si es tediosa, sobredependiente de diferentes tecnologías, etc - y el uso del servicio.
 
-La instalación puede llegar a ser tediosa si no se tiene experiencia, per un por un lado, trabajando con servicios node por las idiosincrasias del gestor de paquetes ```npm```, o con ```postgresql```, servicio que suele funcionar de manera diferente a gestores de bases de datos clásicos como ```mariadb``` o ```mysql```. Exceptuando estos dos casos, existen muy pocas dependencias y la instalación es rápida y fácil.
+La instalación puede llegar a ser tediosa si no se tiene experiencia, por un lado, trabajando con servicios node por las idiosincrasias del gestor de paquetes ```npm```, o con ```postgresql```, servicio que suele funcionar de manera diferente a gestores de bases de datos clásicos como ```mariadb``` o ```mysql```. Exceptuando estos dos casos, existen muy pocas dependencias y la instalación es rápida y fácil.
 
 En cuanto al uso, Citizen OS provee una interfaz de usuario moderna y amigable, por lo que consideramos que es fácil de usar por un usuario de cualquier nivel de conocimientos.

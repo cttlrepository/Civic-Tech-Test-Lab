@@ -28,7 +28,7 @@ Aquesta guia està disponible en valencià (aquest document), [espanyol](../READ
 
 [Decidim](decidim.org) es un framework que ajuda a organizacions i equipos a construir una esfera democràtica virtual als seus usuaris. Permet la creació d'un flux participatiu que inclou assemblees, consultes i conferencies.  
 
-Un proces es una definició del tipus cicle de vida el qual recull activitats fetes per un usuari en un determinat context. Per exemple, la implementació de `decidim` a la ciutat de Barcelona defineix un process per a diagnosticar la necessitat de revisió i reequipament d'infraestructura pública a Nou Barris.
+Un procés és una definició del tipus cicle de vida el qual recull activitats fetes per un usuari en un determinat context. Per exemple, la implementació de `decidim` a la ciutat de Barcelona defineix un process per a diagnosticar la necessitat de revisió i reequipament d'infraestructura pública a Nou Barris.
 Un usuari `decidim`pot seleccionar qualsevol procés existent i crear una proposta al mateix, per example, la necesitat de crear un espai infantil o un parc. Les propostes poden ser comentades i aprovades  per altres membres de l'organització. El cicle de vida d'un procés está fet a mida per a cada un d'ells, es a dir, els seus passos son creats quan un procés es definit, encara que un pas denominat 'Introducció' serà automàticament afegit per defecte.
 <a name="authorship"></a>
 ## Autoria
@@ -38,7 +38,6 @@ Projecte realitzar per la Comunitat Decidim a [decidim.org](decidim.org)
 AGPL v3.
 <a name="reqs"></a>
 ## Requerimients hardware
-Una configuración mínima para testeo no necesitará más de 2GB de RAM y 1 core pero en un despliegue de producción las necesidades crecerán a medida que el número de usuario aumente
 Una configuració mínima per a testejar no necessitarà més de 2GB de RAM i 1 core però en un desplegament de producció les necessitats creixeran a mesura que el nombre d'usuaris augmenta.
 <a name="install"></a>
 ## Instal·lació
@@ -89,7 +88,7 @@ group :production do
 	gem "daemons"
 end
 ```
-Ara es possible llançar la comanda  `bundle` per a desplegar el projecte
+Ara es possible llançar la comanda  `bundle` per a desplegar el projecte.
 
 ```bash
 bundle install

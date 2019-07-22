@@ -35,8 +35,7 @@ The data processings is made with filters. The filters syntaxis is defined eithe
 
 Besides filters, cells, columnos or rows transformations can be made, using the latter filters.
 
-As an example, we'll define the next dataset.
-
+As an example, we'll define the next dataset,
 
 |Nombre|Apellido 1|Apellido 2| Fecha de nacimiento| Género|
 |------|----------|----------|-----|-------|

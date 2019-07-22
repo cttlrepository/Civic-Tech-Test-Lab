@@ -32,7 +32,7 @@ Aquesta guia està disponible en valencià (aquest document), [espanyol](../READ
 que poden sorgir en un carrer - un fanal espatllat, un semàfor que no funciona, etc.
 _FMS_ definex `òrgans` - ajuntaments, regidories - als quals els passaràn els informes
 creats a partir dels problemes que els usuaris han informat mitjançant el servici _FMS_. 
-Els usuarios poden informar d'un problema creant-se un compte per a configurar els informes
+Els usuaris poden informar d'un problema creant-se un compte per a configurar els informes
 més tard, o fer-lo anonimament. Així mateix, cada informe permet recollir un títol,
 una descripció del problema i fotos.
 
@@ -57,15 +57,10 @@ Llicenciat sota GNU GPLv3.
 ## Requerimients hardware
 
 Una instal·lació en un entorn de test o desenvolupament no necessitarà una gran capacitat
-per a córrer el servici. Desglossant els requeriments sengons estàndars _cloud_/VPS,
+per a córrer el servici. Desglossant els requeriments segons estàndards _cloud_/VPS,
 els servidors amb característiques mínimes dels principals proveïdors seran suficients.
 D'un altra banda, en entorns de producció, les mesures de capacitat hardware augmenten en funció
 de l'abast d'usuaris i de què altres ferramentes s'empot
-Una instalación en un entorno de test o desarrollo no necesitará gran capacidad para correr el servicio.
-Desglosando los requerimientos según estándares _cloud_/VPS, los servidores con
-características mínimas de los principales proveedores son suficientes. Sin embargo,
-en entornos de producción la medida aumenta en función del alacance de los usuarios así
-de qué otras herramientas s'encasten dins del servici.
 
 <a name="install"></a>
 ## Instal·lació

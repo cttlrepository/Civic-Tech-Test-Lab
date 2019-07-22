@@ -43,7 +43,7 @@ Servicio licenciado bajo GNU AGPLv3.
 Una instalación en un entorno de test o desarrollo no necesitará gran capacidad para correr el servicio.
 Desglosando los requerimientos según estándares _cloud_/VPS, los servidores con
 características mínimas de los principales proveedores son suficientes. Sin embargo,
-en entornos de producción la medida aumenta en función del alacance de los usuarios así
+en entornos de producción la medida aumenta en función del alcance de los usuarios así
 de qué otras herramientas se empotran dentro del servicio.
 <a name="install"></a>
 ## Instalación
@@ -94,7 +94,7 @@ Llegados a este punto, el servicio debe estar disponible en el puerto 3000 de la
     }
     ```
 
-    Reconstruimos el esquema en la base de datos e instalamos
+    Reconstruimos el esquema en la base de datos e instalamos:
     ```bash
     # nos movemos a la carpeta raíz del proyecto, según nuestro ejemplo:
     cd /home/fms/fixmystreet

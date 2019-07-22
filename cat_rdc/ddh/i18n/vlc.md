@@ -91,11 +91,8 @@ cd /root/ddh; ember serve
 ```
 Els estudis es guarden en `ddh/public/studies` com a fitxers _.csv_. Per a afegir
 un nou govern/president, hem d'editar la variable `governments` del fitxer
-`config/environment.js` afegint un diccionari JSON ambe metadades del govern i els
+`config/environment.js` afegint un diccionari JSON ambmetadades del govern i els
 seus estudis.
-
-Los estudios se guardan en `ddh/public/studies`, siendo estos ficheros .csv.
-Para añadir un nuevo gobierno/presidente, será necesario editar la variable `governments` del fichero `config/environment.js` añadiendo un diccionario JSON con metadatos sobre el gobierno y sus estudios.
 
 ```json
   "name": "Sebastián Piñera II",

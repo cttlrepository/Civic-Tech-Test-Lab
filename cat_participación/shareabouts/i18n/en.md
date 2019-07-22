@@ -1,6 +1,6 @@
 # [Shareabouts](https://github.com/openplans/shareabouts)
 
-This guide is available english (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
+This guide is available in english (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
 
 ### Table of contents
 1. [ Description ](#desc)
@@ -46,7 +46,7 @@ The project is also merged together with other Free Software projects.
 ## Hardware requirements
 
 A basic testing installation will not need more than 0.5GB of RAM and 1 core for each
-part of the service - given a virtualzed environment.A production environment will need
+part of the service - given a virtualzed environment. A production environment will need
 at least double of those values - although it will increase if embedding with other services
 such as reverse proxies, backups. 
 

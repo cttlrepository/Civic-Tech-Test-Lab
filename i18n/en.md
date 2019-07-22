@@ -13,27 +13,27 @@ The Civic Tech Test Lab (CTTL) is a project made by the Cátedra Tecnología Cí
 The projects are classified as they comply with the open government categories.
 
 
-- [Data and transparency](/cat_tyd)
+- [Data and transparency](../cat_tyd)
 
 | Service   | Author       | License   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-| [OpenRefine](/cat_tyd/openrefine) | openrefine | BSD-3-Clause| Data filtering, Data cleaning
-| [RAWGrapsh](/cat_tyd/RAWGraphs) | DensityDesign| Apache 2.0| Graphics, data cleaning
+| [OpenRefine](../cat_tyd/openrefine/i18n/en.md) | openrefine | BSD-3-Clause| Data filtering, Data cleaning
+| [RAWGrapsh](../cat_tyd/RAWGraphs) | DensityDesign| Apache 2.0| Graphics, data cleaning
 
-- [Collaboration](/cat_participación)
-
-| Servicio   | Autor       | Licencia   | Tags |
-| :--------- | :---------- | :--------- | :------ |
-| [Citizen OS](/cat_participación/citizenos) | Citizeon OS | Apache 2.0 | Collaboration, votes, open government|
-| [Decidim](/cat_participación/decidim) | Decidim | AGPL v3| Democratic digital platform, votes, open government|
-| [Shareabouts](/cat_participación/shareabouts) | OpenPlans | GPLv3 | Collaboration maps, OpenData
-| [Fixmystreet](/cat_participación/fixmystreet) | mySociety| AGPLv3 | Collaboration maps, OpenData
-| [Rocket.Chat](/cat_participación/Rocket.Chat) | Rocket.CHat| MIT| Coordination, messaging 
-| [Kanboard](/cat_participación/Kanboard) | Kanboard| MIT| Collaboration, task fragmentation, kanban 
-
-
-- [Accountability](/cat_rdc)
+- [Collaboration](../cat_participación)
 
 | Servicio   | Autor       | Licencia   | Tags |
 | :--------- | :---------- | :--------- | :------ |
-a [Del dicho al hecho](/cat_rdc/ddh) | Fundación Ciudadano Inteligente| Without license| Accountability, OpenData |
+| [Citizen OS](../cat_participación/citizenos/i18n/en.md) | Citizeon OS | Apache 2.0 | Collaboration, votes, open government|
+| [Decidim](../cat_participación/decidim/i18n/en.md) | Decidim | AGPL v3| Democratic digital platform, votes, open government|
+| [Shareabouts](../cat_participación/shareabouts/i18n/en.md) | OpenPlans | GPLv3 | Collaboration maps, OpenData
+| [Fixmystreet](../cat_participación/fixmystreet/i18n/en.md) | mySociety| AGPLv3 | Collaboration maps, OpenData
+| [Rocket.Chat](../cat_participación/Rocket.Chat) | Rocket.CHat| MIT| Coordination, messaging 
+| [Kanboard](../cat_participación/Kanboard) | Kanboard| MIT| Collaboration, task fragmentation, kanban 
+
+
+- [Accountability](../cat_rdc)
+
+| Servicio   | Autor       | Licencia   | Tags |
+| :--------- | :---------- | :--------- | :------ |
+a [Del dicho al hecho](../cat_rdc/ddh/i18n/en.md) | Fundación Ciudadano Inteligente| Without license| Accountability, OpenData |

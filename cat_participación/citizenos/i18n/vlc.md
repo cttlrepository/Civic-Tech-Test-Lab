@@ -43,7 +43,7 @@ A continuació deixem un llistat de totes les característiques d'aquest servici
 * Grups, agrupacions de temes i usuarios per a projectes subdividibles.
 
 ## Autoria
-Citizen OS es fet i mantengut per l'empresa estoniana del mateix nom i la comunitat de desenvolupadors a [GitHub](https://github.com/citizenos).
+Citizen OS és fet i mantengut per l'empresa estoniana del mateix nom i la comunitat de desenvolupadors a [GitHub](https://github.com/citizenos).
 
 
 ## Llicències
@@ -163,6 +163,6 @@ ones externes desde un proxy invers - Apache o Nginx - amb tots els protocolos d
 ## Valoració
 Realizarem la nostra valoració principalmment la instalació - en funció de si es tediosa, sobrependent d'altres tecnologies, etc - i en l'ús del servici.
 
-La instalació pot arribar a ser tediosa si no es té experiència, d'una banda, treballant amb servicis node, per les idiosincrasies del seu gestor de paquets ```npm```, o amb ```postgresql``` servici que sol funcionar de manera diferent a altes exemples clàsics com ```mariadb``` o ```mysql```. Exceptuant aquests casos, existeixen molt poques dependencies i la instalació es ràpida i senzilla.
+La instalació pot arribar a ser tediosa si no es té experiència, d'una banda, treballant amb servicis node, per les idiosincrásies del seu gestor de paquets ```npm```, o amb ```postgresql``` servici que sol funcionar de manera diferent a altes exemples clàsics com ```mariadb``` o ```mysql```. Exceptuant aquests casos, existeixen molt poques dependencies i la instalació es ràpida i senzilla.
 
 Quant l'ús, Citizen os proveeix una interfície d'usuari moderna i amigable, motiu pel qual considerem que es facil d'utilitzar per un usuari amb cualsevol nivell de coneixements.

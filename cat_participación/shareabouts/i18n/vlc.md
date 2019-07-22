@@ -28,7 +28,7 @@ Aquesta guia està disponible en valencià (aquest document), [espanyol](../READ
 > [Shareabouts](https://github.com/openplans/shareabouts) és un mapa online per
 a recollir processos sociales de col·laboració oberta. En desplaçar un pin en el mapa
 es poden proveïr idees, suggeriments i comentaris per a planejar o disenyar problemes
-i millores. Ademés, com a aplicacio mobile-friendly, resulta fàcil afegir entrades ràpidament.
+i millores. Ademés, com a aplicació mobile-friendly, resulta fàcil afegir entrades ràpidament.
 
 
 [Shareabouts](https://github.com/openplans/shareabouts), tenint com a base un
@@ -54,9 +54,6 @@ Una instal·lació bàsica pera testejar l'aplicació no necessitarà més de 0.
 i 1 core per a cada aplicació (frontend i backend) - tenint com a referència un entorn virtualitzat.
 Un entorn de producció necessitarà al menys el doble d'aquestes mesures - en funció
 de l'acoplament amb altres servicis (proxies inversos, backups, etc).
-
-Una instalación básica para testear la aplicación no necesitará más de 0.5GB de RAM y 1 core para cada parte de la aplicación (frontend y backend) - suponiendo un entorno virtualizado. Un entorno de producción necesitará por lo menos el doble - en función del acoplamiento con otros servicios (proxies inversos, respaldos, bases de datos en otras máquinas). En cuanto al almacenamiento, dependerá del número de usuarios, por lo que recomendamos tener la base de datos en una máquina o entorno separado.
-
 
 <a name="install"></a>
 ## Instal·lació
@@ -121,9 +118,9 @@ Hem desplegat el servici amb una imatge docker estàndard de `postgres:latest`.
     ```
     src/manage.py runserver 0.0.0.0:8001
     ```
-    Accedim al panel d'administració del servici web mijançant `http://IP:8001/admin`, donde `IP`
-    hae referencia a la dirección IP de la máquina que contiene el servidor. Entrem
-    amb el superusuario creat i ja podem crear un dataset de parell de claus per a que
+    Accedim al panel d'administració del servici web mijançant `http://IP:8001/admin`, 
+    on `IP` fa referència a la direcció IP de la màquina que conté el servidor. Entrem
+    amb el superusuari creat i ja podem crear un dataset de parell de claus per a que
     el frontend puga accedir medjançant REST a l'API.
     
 

@@ -30,7 +30,7 @@ Esta guia está disponible en castellano (este documento), [inglés](i18n/en.md)
 [Decidim](decidim.org) es un framework que ayuda a origanizaciones y equipos a construir una esfera democrática virtual a sus usuarios. Permite la creación de un flujo participativo que incluye procesos, asambleas, consultas y conferencias.
 
 Un proceso es una definición del tipo ciclo de vida la cual recoge actividades hechas por un usuario en un determinado contexto. Por ejemplo, la implementación de `decidim` a la ciudad de Barcelona define un proceso para diagnosticar la necesidad de revisión y reequipamiento de infraestructura pública a Nou barris.
-Un usuario `decidim` puede seleccionar un proceso dado y crear una propuesta al mismo, por ejemplo, la necesidad de crear un espacio infantil o un parque. Las propuestas pueden ser comentadas y aprobadas por otros miembros de la organización. El ciclo de vida de un proceso está hecho a medida para cada uno de ellos, esto es, sus pasos son creados cuando un proceso es definido, aunque un paso denominado 'Introduccón' será automáticamente añadido por defecto.
+Un usuario `decidim` puede seleccionar un proceso dado y crear una propuesta al mismo, por ejemplo, la necesidad de crear un espacio infantil o un parque. Las propuestas pueden ser comentadas y aprobadas por otros miembros de la organización. El ciclo de vida de un proceso está hecho a medida para cada uno de ellos, esto es, sus pasos son creados cuando un proceso es definido, aunque un paso denominado 'Introducción' será automáticamente añadido por defecto.
 
 <a name="authorship"></a>
 ## Autoría
@@ -137,4 +137,4 @@ Por otro lado, en vez de un proxy inverso, también existe el software [passenge
 <a name="val"></a>
 ## Valoración
 
-Aunque no exista, a priori, restricción de uso para organizaciones pequeñas, este servicio es _gigante_, lo que implica que su instalación y preparación para producción puede ser tediosa, especialmente cuando solo el versionado de ruby es una tarea ardua en sí misma. Si se desea una instalación rápida, recomendamos la oficial mediante docker
+Aunque no exista, a priori, restricción de uso para organizaciones pequeñas, este servicio es _gigante_, lo que implica que su instalación y preparación para producción puede ser tediosa, especialmente cuando solo el versionado de ruby es una tarea ardua en sí misma. Si se desea una instalación rápida, recomendamos la oficial mediante docker.

@@ -1,6 +1,6 @@
 # [Decidim](https://decidim.org)
 
-This guide is available english (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
+This guide is available english in (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
 
 ### Table of contents
 1. [ Description ](#desc)
@@ -28,7 +28,7 @@ This guide is available english (this doc), [spanish](../README.md), and [catala
 [Decidim](decidim.org) is a framework which aims to help teams and organizations build a virtual democratic field for its users.
 It allows creating a participatory flow involving processes, assemblies, user-made assemblies, consultations and conferences.
 
-Decidim uses sepcific termonoly when describing its use cases. The foremost concep concept we have is a *process*, which is a cycle-of-life definition which gathers user-made activities in a given context. For example, the city of Barcelona's `decidim` has a process to diagnose the need of revision and reequipment of public infrastructure at Nou Barris.
+Decidim uses specific terminology when describing its use cases. The foremost concept we have is a *process*, which is a cycle-of-life definition which gathers user-made activities in a given context. For example, the city of Barcelona's `decidim` has a process to diagnose the need of revision and reequipment of public infrastructure at Nou Barris.
 A `decidim` user may select a given process in a that area and create a proposal on that process, eg, the need to create a children space or a park.
 That proposal can be commented and endorsed by other members of the organization.
 The cycle-of-life of a process is custom-made for each process, this is, its steps are made when defining a process, although a 'Introduction' step will be automatically defined by default.
@@ -82,7 +82,7 @@ decidim decidim_cttl
 cd decidim_cttl
 ```
 
-Now we're inside the project's main folder, wee need to edit the Gemfile accordingly to our needs. 
+Now we're inside the project's main folder, we need to edit the Gemfile according to our needs. 
 We create a production section for our deployment and add the `figaro` gem for it to be installed later.
 
 ```vim

@@ -1,6 +1,6 @@
 # [Del dicho al hecho](https://github.com/ciudadanointeligente/del-dicho-al-hecho-ember) 
 
-This guide is available english (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
+This guide is available on english (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
 
 ### Table of contents
 1. [ Description ](#desc)
@@ -33,7 +33,7 @@ campaigns.
 <a name="authorship"></a>
 ## Autorship
 
-Desarrollado por el la [Fundación Ciudadano Inteligente](https://ciudadaniai.org/) junto a sus constribuidores en [Github](https://github.com/ciudadanointeligente/del-dicho-al-hecho-ember)
+Developed by the [Fundación Ciudadano Inteligente](https://ciudadaniai.org/), helped by its contributors on [Github](https://github.com/ciudadanointeligente/del-dicho-al-hecho-ember).
 <a name="license"></a>
 ## License
 

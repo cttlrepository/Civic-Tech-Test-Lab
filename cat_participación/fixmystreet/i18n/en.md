@@ -1,6 +1,6 @@
 # [FixMyStreet](https://fixmystreet.org)
 
-This guide is available english (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
+This guide is available on english (this doc), [spanish](../README.md), and [catalan](vlc.md). We'll welcome more translations via PR.
 
 ### Table of contents
 1. [ Description ](#desc)
@@ -29,7 +29,7 @@ This guide is available english (this doc), [spanish](../README.md), and [catala
  
 
 [FixMyStreet](https://fixmystreet.org)  is compiling and reporting tool of problems which arouse
-at a given street - a broken streetlight, a sempahor wich doesn work, etc. _FMS_
+at a given street - a broken streetlight, a semaphor which doesn't work, etc. _FMS_
 defines _bodies_ - city halls, councils, etc - to which the reports, created from
 the users provided information about street issues, will be passed. The users can 
 report an issue by creating an account or they can do it so anonymously. Each report

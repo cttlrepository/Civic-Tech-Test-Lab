@@ -1,6 +1,6 @@
 # [OpenRefine](https://openrefine.org)
 
-Esta guia está disponible en castellano (este documento), [inglés](i18n/en.md) y [valenciano](i188n/vlc.md). Más traducciones son bienvenidas mediante un PR.
+Esta guia está disponible en castellano (este documento), [inglés](i18n/en.md) y [valenciano](i18n/vlc.md). Más traducciones son bienvenidas mediante un PR.
 
 ### Tabla de contenidos
 1. [ Descripción ](#desc)

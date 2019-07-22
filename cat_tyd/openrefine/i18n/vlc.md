@@ -33,7 +33,7 @@ Aquesta guia està disponible en valencià (aquest document), [espanyol](../READ
 
 Els tractaments de dades es realitzen mitjançant filtres. La sintaxi dels filtres es pot definir amb [GREL](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language), [P](https://python.org)/[Jython](https://jython.org) o [Clojure](https://clojure.org).
 
-A més de filtres, es poten realitzan transformacions sobre files, columnes o cel·les en funció dels filtres anteriors.
+A més de filtres, es poden realitzar transformacions sobre files, columnes o cel·les en funció dels filtres anteriors.
 
 
 Definint el següent dataset com exemple:
@@ -106,7 +106,7 @@ git clone https://github.com/openrefine/openrefine openrefine; cd openrefine
 
 <a name="comms"></a>
 ## Comentaris adicionals
-Proporcionem una imatge docker amb OpenRefine instal·lat i a punt per a testejar amb les dades d'example utilitzades en auqest document.
+Proporcionem una imatge docker amb OpenRefine instal·lat i a punt per a testejar amb les dades d'example utilitzades en aquest document.
 
 
 ```
