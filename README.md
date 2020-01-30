@@ -5,6 +5,8 @@ Este documento también está disponible en [inglés](i18n/en.md) o [valenciano]
 ## Qué es esto
 El Civic Tech Test Lab (CTTL) es un proyecto realizado por la Cátedra Tecnología Cívica y Empoderamiento (TCE) promovida por la Delegació de Transparència i Govern Obert de la Diputació de València junto a la Universitat Politècnica de València. La iniciativa tiene como objetivo la recopilación, el análisis y la documentación de herramientas cívicias que faciliten el empoderamiento ciudadano y solucionen problemas de gobierno abierto.
 
+![](https://etc.webs.upv.es/wp-content/uploads/2019/03/bandalogos.png)
+
 ## Recopilación
 A la hora de recopilar la información hemos clasificado las herramientas según las directrices del gobierno abierto.
 
